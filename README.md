@@ -6,6 +6,31 @@ MatchCreator es una plataforma web full stack que conecta empresas con creadores
 
 La plataforma ofrece interfaces específicas para empresas y creadores, soportando gestión de campañas, postulaciones, mensajería, administración de perfiles y sistemas de reseñas.
 
+## Capturas de pantalla 
+
+### Página principal
+<img width="2261" height="1284" alt="IMG_4854" src="https://github.com/user-attachments/assets/6e3a928b-1ae5-4c4d-b43b-5c825358e418" />
+### Registro Creador
+<img width="2278" height="1284" alt="IMG_4855" src="https://github.com/user-attachments/assets/ee13ae3f-076d-4a89-8c46-a91ff102f746" />
+### Registro Empresa
+<img width="2271" height="1284" alt="IMG_4858" src="https://github.com/user-attachments/assets/868fceb4-4484-4c24-9b37-a052a3e2ed95" />
+### Perfil Creador
+<img width="2280" height="1284" alt="IMG_4856" src="https://github.com/user-attachments/assets/c4e34d59-d118-497f-82f1-4b9a698e6962" />
+### Perfil Empresa
+<img width="2284" height="1284" alt="IMG_4857" src="https://github.com/user-attachments/assets/230322e5-f3aa-42ca-be9f-c8c2cf49664b" />
+### Login
+<img width="2266" height="1284" alt="IMG_4859" src="https://github.com/user-attachments/assets/cc4b01b6-4ebf-4316-bad4-a0c02d199a5f" />
+### Mensajes
+<img width="2278" height="1284" alt="IMG_4861" src="https://github.com/user-attachments/assets/96fc299b-c739-42af-9138-957964c45025" />
+### Campañas
+<img width="2280" height="1284" alt="IMG_4860" src="https://github.com/user-attachments/assets/81f361f9-b363-4c03-b107-d41cecac1fc6" />
+
+
+
+
+
+
+
 ## Funcionalidades Principales
 
 ### Funcionalidades para Empresas
@@ -113,16 +138,6 @@ docker-compose down
 ## Trabajo en Equipo
 
 Este proyecto fue desarrollado como parte de un curso de ingeniería de software, siguiendo prácticas de desarrollo colaborativo, control de versiones y principios de arquitectura modular.
-
-## Capturas de pantalla 
-<img width="2261" height="1284" alt="IMG_4854" src="https://github.com/user-attachments/assets/6e3a928b-1ae5-4c4d-b43b-5c825358e418" />
-<img width="2278" height="1284" alt="IMG_4861" src="https://github.com/user-attachments/assets/96fc299b-c739-42af-9138-957964c45025" />
-<img width="2280" height="1284" alt="IMG_4860" src="https://github.com/user-attachments/assets/81f361f9-b363-4c03-b107-d41cecac1fc6" />
-<img width="2266" height="1284" alt="IMG_4859" src="https://github.com/user-attachments/assets/cc4b01b6-4ebf-4316-bad4-a0c02d199a5f" />
-<img width="2271" height="1284" alt="IMG_4858" src="https://github.com/user-attachments/assets/868fceb4-4484-4c24-9b37-a052a3e2ed95" />
-<img width="2284" height="1284" alt="IMG_4857" src="https://github.com/user-attachments/assets/230322e5-f3aa-42ca-be9f-c8c2cf49664b" />
-<img width="2280" height="1284" alt="IMG_4856" src="https://github.com/user-attachments/assets/c4e34d59-d118-497f-82f1-4b9a698e6962" />
-<img width="2278" height="1284" alt="IMG_4855" src="https://github.com/user-attachments/assets/ee13ae3f-076d-4a89-8c46-a91ff102f746" />
 
 ## Mi contribución 
 
