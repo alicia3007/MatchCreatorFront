@@ -1,0 +1,1405 @@
+{
+  "common": {
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "register": "Registrarse",
+    "back": "Volver",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "confirm": "Confirmar",
+    "send": "Enviar",
+    "view": "Ver",
+    "close": "Cerrar",
+    "yes": "Sí",
+    "no": "No",
+    "all": "Todos",
+    "none": "Ninguno",
+    "apply": "Aplicar",
+    "reset": "Restablecer",
+    "upload": "Subir",
+    "download": "Descargar",
+    "share": "Compartir"
+  },
+  "nav": {
+    "profile": "Perfil",
+    "campaigns": "Campañas",
+    "applications": "Postulaciones",
+    "messages": "Mensajes",
+    "reviews": "Reseñas",
+    "browse": "Explorar",
+    "create": "Crear",
+    "myCampaigns": "Mis Campañas",
+    "browseCreators": "Buscar Creadores"
+  },
+  "landing": {
+    "badge": "Plataforma de Colaboración",
+    "title": "Conecta con <1>creadores</1> y empresas",
+    "subtitle": "Donde las marcas encuentran a sus creadores ideales. Matching inteligente, campañas increíbles y resultados asombrosos.",
+    "iamCreator": "Soy Creador",
+    "iamCompany": "Soy Empresa",
+    "footer": "© 2026 MatchCreator · Conectando talento con oportunidades.",
+    "features": {
+      "whyLabel": "¿Por qué MatchCreator?",
+      "title": "Todo lo que necesitas",
+      "subtitle": "en un solo lugar",
+      "whySubtitle": "Diseñado para conectar de forma inteligente, rápida y confiable entre creadores y marcas.",
+      "ai": {
+        "title": "Matching con IA",
+        "description": "Nuestra IA analiza perfiles y encuentra las mejores coincidencias entre marcas y creadores."
+      },
+      "growth": {
+        "title": "Crecimiento real",
+        "description": "Accede a datos y métricas que te ayudan a mejorar tus campañas continuamente."
+      },
+      "secure": {
+        "title": "Seguro y confiable",
+        "description": "Sistema de reseñas bidireccional y gestión segura de colaboraciones."
+      }
+    },
+    "forCreators": {
+      "chipLabel": "Para Creadores",
+      "title": "Tu talento merece las mejores marcas",
+      "subtitle": "Conecta con empresas que valoran tu voz y tu audiencia. Colabora, crece y monetiza tu contenido auténtico.",
+      "check1": "Perfil verificado con métricas reales",
+      "check2": "IA que te conecta con marcas afines",
+      "check3": "Gestión de propuestas y contratos",
+      "registerBtn": "Registrarme como Creador",
+      "badge": "Para Creadores",
+      "feature1": "Encuentra campañas perfectas",
+      "feature2": "Gestiona colaboraciones",
+      "feature3": "Recibe pagos seguros",
+      "feature4": "Construye tu reputación"
+    },
+    "forCompanies": {
+      "chipLabel": "Para Empresas",
+      "title": "Encuentra el creador perfecto para tu marca",
+      "subtitle": "Accede a creadores verificados. Filtra por nicho, audiencia y métricas para encontrar el match ideal.",
+      "check1": "Búsqueda avanzada por nicho y métricas",
+      "check2": "Propuestas y pagos seguros integrados",
+      "check3": "Reportes de impacto y resultados medibles",
+      "registerBtn": "Registrarme como Empresa",
+      "badge": "Para Empresas",
+      "feature1": "Busca con IA",
+      "feature2": "Gestiona campañas fácilmente",
+      "feature3": "Tracking en tiempo real",
+      "feature4": "Resultados comprobados"
+    },
+    "marquee": {
+      "tag1": "✦ Creadores Verificados",
+      "tag2": "✦ Matching con IA",
+      "tag3": "✦ Marcas Reales",
+      "tag4": "✦ Colaboraciones Auténticas",
+      "tag5": "✦ Reseñas Transparentes",
+      "tag6": "✦ Crecimiento Digital",
+      "tag7": "✦ Redes Sociales",
+      "tag8": "✦ Marketing Inteligente"
+    },
+    "stats": {
+      "creators": "Creadores activos",
+      "campaigns": "Campañas completadas",
+      "satisfaction": "Satisfacción",
+      "growth": "Crecimiento mensual"
+    },
+    "testimonials": {
+      "title": "Lo que dicen nuestros usuarios",
+      "creator1": {
+        "text": "MatchCreator transformó mi carrera. Ahora trabajo con marcas increíbles y gestiono todo desde una plataforma.",
+        "name": "María González",
+        "role": "Creadora de Contenido"
+      },
+      "company1": {
+        "text": "La IA nos ayudó a encontrar creadores perfectos para nuestra marca. Los resultados superaron nuestras expectativas.",
+        "name": "Carlos Ruiz",
+        "role": "Director de Marketing"
+      }
+    },
+    "cta": {
+      "badge": "Únete hoy",
+      "title": "¿Listo para comenzar?",
+      "subtitle": "Únete a la comunidad de creadores y empresas que están transformando el marketing digital.",
+      "getStarted": "Comenzar ahora"
+    }
+  },
+  "login": {
+    "title": "Bienvenido de nuevo",
+    "subtitle": "Inicia sesión para continuar",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes cuenta?",
+    "signUp": "Regístrate",
+    "quickLogin": "Acceso rápido",
+    "testAccounts": "Cuentas de prueba",
+    "creatorAccount": "Cuenta Creador de Prueba",
+    "creatorAccountDesc": "Explora funcionalidades para creadores",
+    "companyAccount": "Cuenta Empresa de Prueba",
+    "companyAccountDesc": "Explora funcionalidades para empresas",
+    "emailLabel": "Email:",
+    "passwordLabel": "Contraseña:",
+    "quickLoginCreator": "Acceso Rápido Creador",
+    "quickLoginCompany": "Acceso Rápido Empresa",
+    "creatorFeatures": "✨ Perfil completo · Postula a campañas · Recibe mensajes",
+    "companyFeatures": "🚀 Busca creadores · Crea campañas · Gestiona postulantes",
+    "notFound": "Correo no encontrado. Usa una de las cuentas de prueba.",
+    "error": {
+      "fillFields": "Por favor completa todos los campos",
+      "invalidCredentials": "Credenciales inválidas"
+    }
+  },
+  "register": {
+    "creator": {
+      "title": "Registro de Creador",
+      "subtitle": "Comienza tu carrera profesional",
+      "step1": "Información básica",
+      "step2": "Redes sociales",
+      "step3": "Portafolio",
+      "step4": "Tarifas",
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "bio": "Biografía",
+      "category": "Categoría",
+      "location": "Ubicación",
+      "experience": "Experiencia",
+      "addSocial": "Agregar red social",
+      "platform": "Plataforma",
+      "username": "Nombre de usuario",
+      "followers": "Seguidores",
+      "addPortfolio": "Agregar trabajo",
+      "portfolioUrl": "URL del trabajo",
+      "perPost": "Por publicación",
+      "perStory": "Por historia",
+      "perLive": "Por en vivo",
+      "complete": "Completar registro",
+      "success": "Registro completado exitosamente"
+    },
+    "company": {
+      "title": "Registro de Empresa",
+      "subtitle": "Encuentra creadores increíbles",
+      "companyName": "Nombre de la empresa",
+      "industry": "Industria",
+      "website": "Sitio web",
+      "description": "Descripción",
+      "contactName": "Nombre de contacto",
+      "contactEmail": "Email de contacto",
+      "contactPhone": "Teléfono de contacto"
+    }
+  },
+  "profile": {
+    "myProfile": "Mi Perfil",
+    "editProfile": "Editar Perfil",
+    "viewPublicProfile": "Ver perfil público",
+    "stats": {
+      "campaigns": "Campañas",
+      "rating": "Calificación",
+      "reviews": "Reseñas",
+      "collaborations": "Colaboraciones"
+    },
+    "about": "Acerca de",
+    "socialMedia": "Redes Sociales",
+    "portfolio": "Portafolio",
+    "pricing": "Tarifas",
+    "experience": "Experiencia",
+    "categories": "Categorías"
+  },
+  "campaigns": {
+    "title": "Campañas",
+    "available": "Campañas Disponibles",
+    "myCampaigns": "Mis Campañas",
+    "createCampaign": "Crear Campaña",
+    "campaignDetails": "Detalles de la Campaña",
+    "status": {
+      "draft": "Borrador",
+      "active": "Activa",
+      "completed": "Completada",
+      "cancelled": "Cancelada"
+    },
+    "form": {
+      "title": "Título de la campaña",
+      "description": "Descripción",
+      "budget": "Presupuesto",
+      "category": "Categoría",
+      "requirements": "Requisitos",
+      "deliverables": "Entregables",
+      "deadline": "Fecha límite",
+      "platforms": "Plataformas",
+      "minFollowers": "Seguidores mínimos",
+      "maxFollowers": "Seguidores máximos"
+    },
+    "apply": "Postularse",
+    "viewApplications": "Ver postulaciones",
+    "applicants": "Postulantes",
+    "accept": "Aceptar",
+    "reject": "Rechazar",
+    "aiMatch": "Match IA",
+    "matchScore": "Puntuación de compatibilidad"
+  },
+  "applications": {
+    "title": "Mis Postulaciones",
+    "notFound": "Postulación no encontrada",
+    "backToApplications": "Volver a postulaciones",
+    "status": {
+      "sent": "Enviada",
+      "reviewing": "En Revisión",
+      "accepted": "Aceptada",
+      "confirmed": "Confirmada",
+      "rejected": "Rechazada",
+      "pending": "Pendiente",
+      "completed": "Completada"
+    },
+    "statusLabel": "Estado",
+    "appliedOn": "Postulado el",
+    "noApplications": "No tienes postulaciones aún",
+    "campaignDescription": "Descripción de la Campaña",
+    "budget": "Presupuesto",
+    "dates": "Fechas",
+    "objective": "Objetivo",
+    "totalApplicants": "Total Postulantes",
+    "nextStep": "Siguiente Paso",
+    "acceptCollaboration": "Aceptar Colaboración",
+    "rejectCollaboration": "Rechazar Colaboración",
+    "rejectConfirm": "¿Estás seguro de rechazar esta colaboración? Esta acción no se puede deshacer.",
+    "acceptToast": "¡Colaboración aceptada! Se ha enviado un mensaje a la empresa.",
+    "rejectToast": "Has rechazado la colaboración.",
+    "acceptMessage": "¡Hola! He aceptado la colaboración para la campaña \"{{campaignName}}\". Estoy emocionado/a de trabajar juntos. ¿Cuándo podemos coordinar los detalles? 🎉",
+    "sentTitle": "Tu postulación ha sido enviada",
+    "sentDesc": "La empresa está revisando tu perfil. Te notificaremos cuando haya una actualización.",
+    "reviewingTitle": "Tu postulación está en revisión",
+    "reviewingDesc": "La empresa está evaluando tu perfil. Recibirás una respuesta pronto.",
+    "rejectedTitle": "Esta postulación no fue aceptada",
+    "rejectedDesc": "No te preocupes, hay muchas otras oportunidades disponibles.",
+    "confirmedTitle": "¡Colaboración confirmada! 🎉",
+    "confirmedDesc": "Has aceptado la colaboración. Puedes coordinar los detalles en la sección de mensajes.",
+    "goToMessages": "Ir a Mensajes"
+  },
+  "messages": {
+    "title": "Mensajes",
+    "noMessages": "No tienes mensajes",
+    "newMessage": "Nuevo mensaje",
+    "conversation": "Conversación",
+    "typeMessage": "Escribe un mensaje...",
+    "notifications": "Notificaciones",
+    "markAsRead": "Marcar como leído",
+    "loginRequired": "Debes iniciar sesión para ver mensajes"
+  },
+  "reviews": {
+    "title": "Reseñas",
+    "myReviews": "Mis Reseñas",
+    "leaveReview": "Dejar reseña",
+    "rating": "Calificación",
+    "comment": "Comentario",
+    "noReviews": "No hay reseñas aún",
+    "averageRating": "Calificación promedio",
+    "totalReviews": "Total de reseñas"
+  },
+  "browse": {
+    "title": "Explorar Creadores",
+    "filters": {
+      "category": "Categoría",
+      "followers": "Seguidores",
+      "location": "Ubicación",
+      "rating": "Calificación",
+      "availability": "Disponibilidad"
+    },
+    "sortBy": {
+      "relevance": "Relevancia",
+      "rating": "Calificación",
+      "followers": "Seguidores",
+      "recent": "Más reciente"
+    },
+    "results": "resultados",
+    "noResults": "No se encontraron resultados"
+  },
+  "notifications": {
+    "newCampaign": "Nueva campaña disponible",
+    "applicationAccepted": "Tu postulación fue aceptada",
+    "applicationRejected": "Tu postulación fue rechazada",
+    "newApplication": "Nueva postulación recibida",
+    "newApplicationMessage": "{{creatorName}} se postuló a tu campaña \"{{campaignName}}\"",
+    "newApplicant": "📬 Nuevo postulante para tu campaña \"{{campaignName}}\": {{creatorName}}. Revisa su perfil y decide si quieres aceptarlo o rechazarlo.",
+    "newMessage": "Nuevo mensaje",
+    "campaignEnding": "La campaña está por terminar",
+    "reviewReceived": "Recibiste una nueva reseña"
+  },
+  "errors": {
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Email inválido",
+    "passwordMismatch": "Las contraseñas no coinciden",
+    "minLength": "Longitud mínima: {{length}} caracteres",
+    "maxLength": "Longitud máxima: {{length}} caracteres",
+    "networkError": "Error de red. Intenta de nuevo",
+    "unauthorized": "No autorizado",
+    "notFound": "No encontrado",
+    "serverError": "Error del servidor"
+  },
+  "success": {
+    "saved": "Guardado exitosamente",
+    "deleted": "Eliminado exitosamente",
+    "updated": "Actualizado exitosamente",
+    "created": "Creado exitosamente",
+    "sent": "Enviado exitosamente"
+  },
+  "categories": {
+    "fashion": "Moda",
+    "beauty": "Belleza",
+    "fitness": "Fitness",
+    "food": "Comida",
+    "travel": "Viajes",
+    "technology": "Tecnología",
+    "gaming": "Gaming",
+    "lifestyle": "Estilo de vida",
+    "music": "Música",
+    "education": "Educación",
+    "business": "Negocios",
+    "entertainment": "Entretenimiento",
+    "tech": "Tecnología",
+    "design": "Diseño",
+    "wellness": "Wellness",
+    "yoga": "Yoga",
+    "health": "Salud"
+  },
+  "platforms": {
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "youtube": "YouTube",
+    "twitter": "Twitter",
+    "twitterX": "Twitter/X",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "twitch": "Twitch",
+    "pinterest": "Pinterest"
+  },
+  "dateFormats": {
+    "short": "DD/MM/YYYY",
+    "long": "D de MMMM, YYYY",
+    "withTime": "DD/MM/YYYY HH:mm"
+  },
+  "currency": {
+    "symbol": "$",
+    "format": "${{amount}}"
+  },
+  "availableCampaigns": {
+    "header": {
+      "title": "Campañas Disponibles",
+      "subtitle": "Encuentra oportunidades perfectas para ti",
+      "results": "Resultados"
+    },
+    "searchPlaceholder": "Buscar campañas por nombre, empresa, categoría...",
+    "aiRecommendation": {
+      "button": "Recomendar Campañas con IA",
+      "buttonActive": "Analizando...",
+      "analyzing": "Analizando tu perfil de creador...",
+      "matching": "Buscando campañas compatibles...",
+      "complete": "Recomendaciones completadas",
+      "description": "Basado en tu perfil y contenido"
+    },
+    "filters": {
+      "label": "FILTROS:",
+      "platform": "Plataforma",
+      "contentType": "Tipo de Contenido",
+      "payment": "Pago",
+      "clear": "Limpiar ({{count}})",
+      "platforms": {
+        "twitterX": "Twitter/X"
+      },
+      "contentTypes": {
+        "tech": "Tech",
+        "gaming": "Gaming",
+        "fashion": "Moda",
+        "lifestyle": "Lifestyle",
+        "fitness": "Fitness",
+        "beauty": "Belleza",
+        "travel": "Viajes",
+        "food": "Food",
+        "design": "Diseño"
+      },
+      "budgetRanges": {
+        "low": "Bajo (< $500)",
+        "medium": "Medio ($500 - $2,000)",
+        "high": "Alto ($2,000 - $5,000)",
+        "premium": "Premium (> $5,000)"
+      }
+    },
+    "empty": {
+      "title": "No encontramos campañas",
+      "subtitle": "Ajusta tus filtros o búsqueda para descubrir más oportunidades",
+      "clearFilters": "Limpiar Filtros"
+    },
+    "card": {
+      "recommended": "Recomendado por IA",
+      "save": "Guardar campaña",
+      "payment": "Pago",
+      "duration": "Duración",
+      "viewDetails": "Ver Detalles"
+    }
+  },
+  "browseCreators": {
+    "header": {
+      "title": "Descubre Talento Creativo",
+      "subtitle": "Miles de creadores esperando colaborar con tu marca",
+      "results": "Resultados"
+    },
+    "searchPlaceholder": "Buscar creadores por nombre, nicho, especialidad...",
+    "availableTitle": "Creadores Disponibles",
+    "filters": {
+      "label": "FILTROS:",
+      "socialNetwork": "Red Social",
+      "category": "Categoría",
+      "reach": "Alcance",
+      "clear": "Limpiar ({{count}})"
+    },
+    "empty": {
+      "title": "No encontramos creadores",
+      "subtitle": "Ajusta tus filtros o búsqueda para descubrir más talento",
+      "clearFilters": "Limpiar Filtros"
+    },
+    "card": {
+      "aiRecommended": "Recomendado por IA",
+      "saveCreator": "Guardar creador",
+      "followers": "Seguidores",
+      "networks": "Redes"
+    },
+    "aiCard": {
+      "topAI": "TOP IA"
+    }
+  },
+  "followerRanges": {
+    "nano": "Nano (1K - 10K)",
+    "micro": "Micro (10K - 50K)",
+    "midTier": "Mid-tier (50K - 100K)",
+    "macro": "Macro (100K - 1M)",
+    "mega": "Mega (1M+)"
+  },
+  "creatorSidebar": {
+    "profile": {
+      "defaultName": "Mi Perfil",
+      "role": "Creador"
+    },
+    "menu": {
+      "exploreCampaigns": {
+        "label": "Explorar Campañas",
+        "description": "Buscar oportunidades"
+      },
+      "myApplications": {
+        "label": "Mis Postulaciones",
+        "description": "Mis aplicaciones"
+      },
+      "messages": {
+        "label": "Mensajes",
+        "description": "Chat con empresas"
+      },
+      "reviews": {
+        "label": "Reseñas",
+        "description": "Valorar empresas"
+      },
+      "myProfile": {
+        "label": "Mi Perfil",
+        "description": "Editar perfil"
+      }
+    },
+    "logout": "Cerrar sesión"
+  },
+  "myCampaigns": {
+    "title": "Mis Campañas",
+    "subtitle": "Administra tus campañas de marketing",
+    "newCampaign": "+ Nueva Campaña",
+    "status": {
+      "active": "Activa",
+      "closed": "Cerrada"
+    },
+    "empty": {
+      "title": "No tienes campañas creadas",
+      "subtitle": "Crea tu primera campaña para empezar a recibir postulaciones de creadores",
+      "createBtn": "Crear Campaña"
+    },
+    "actions": {
+      "close": "Cerrar",
+      "activate": "Activar",
+      "closeCampaign": "Cerrar campaña",
+      "activateCampaign": "Activar campaña",
+      "viewDetail": "Ver Detalle",
+      "edit": "Editar"
+    },
+    "applicantsCount": "{{count}} postulante",
+    "applicantsCount_other": "{{count}} postulantes",
+    "moreTypes": "+{{count}} más"
+  },
+  "myApplications": {
+    "subtitle": "Revisa el estado de tus postulaciones a campañas",
+    "emptyDescription": "Explora las campañas disponibles y postúlate a las que te interesen",
+    "viewAvailableCampaigns": "Ver Campañas Disponibles",
+    "viewDetail": "Ver Detalle"
+  },
+  "creatorReviews": {
+    "title": "Reseñas",
+    "subtitle": "Gestiona tus reseñas y feedback de colaboraciones",
+    "toastSuccess": "Reseña enviada con éxito",
+    "tabs": {
+      "received": "Reseñas Recibidas",
+      "write": "Escribir Reseñas"
+    },
+    "received": {
+      "noRating": "N/A",
+      "reviewCount": "{{count}} reseña",
+      "reviewCount_other": "{{count}} reseñas",
+      "commentsTitle": "Comentarios",
+      "empty": {
+        "title": "Aún no tienes reseñas",
+        "subtitle": "Completa tu primera colaboración para recibir feedback de las empresas"
+      }
+    },
+    "write": {
+      "noCollabs": {
+        "title": "No hay colaboraciones completadas",
+        "subtitle": "Una vez que completes colaboraciones con empresas, podrás dejar reseñas aquí"
+      },
+      "banner": {
+        "title": "Comparte tu experiencia",
+        "subtitle": "Ayuda a otros creadores dejando reseñas honestas"
+      },
+      "collabCompleted": "Colaboración completada",
+      "alreadyReviewed": "Ya has reseñado esta empresa",
+      "writeBtn": "Escribir Reseña",
+      "form": {
+        "ratingLabel": "Calificación",
+        "commentLabel": "Comentario",
+        "commentPlaceholder": "Comparte tu experiencia trabajando con esta empresa...",
+        "submitBtn": "Enviar Reseña",
+        "submitting": "Enviando..."
+      }
+    }
+  },
+  "creatorProfile": {
+    "loadingProfile": "Cargando perfil...",
+    "coverAlt": "Portada",
+    "editProfile": "Editar Perfil",
+    "totalReach": "Alcance Total",
+    "averageRating": "Calificación Promedio",
+    "collaborations": "Colaboraciones",
+    "notAvailable": "N/A",
+    "socialMedia": "Redes Sociales",
+    "followers": "seguidores",
+    "experience": "Experiencia",
+    "notSpecified": "No especificada",
+    "pricingByPlatform": "Tarifas por Red Social",
+    "pricingDisclaimer": "Todas las tarifas están en USD (Dólares Estadounidenses)",
+    "perPost": "Por publicación",
+    "perStory": "Por historia",
+    "perLive": "Por en vivo",
+    "portfolio": "Portafolio",
+    "portfolioItemAlt": "Portafolio {{number}}",
+    "reviews": "Reseñas",
+    "noReviewsYet": "Aún no tienes reseñas. ¡Completa tu primera colaboración!"
+  },
+  "creatorRegister": {
+    "header": {
+      "backToProfile": "Volver al perfil",
+      "alreadyHaveAccount": "Ya tengo cuenta"
+    },
+    "title": {
+      "create": "Crea tu perfil de creador",
+      "edit": "Editar perfil de creador"
+    },
+    "subtitle": {
+      "create": "Completa tu información para conectar con marcas",
+      "edit": "Actualiza tu información como creador"
+    },
+    "infoBlock": {
+      "create": {
+        "title": "¿Qué sucede después del registro?",
+        "check1": "Tu perfil será visible para empresas verificadas en la plataforma",
+        "check2": "Podrás explorar y postularte a campañas según tu nicho",
+        "check3": "Nuestra IA te recomendará campañas ideales para tu audiencia",
+        "check4": "Podrás gestionar tus colaboraciones y recibir reseñas desde tu dashboard"
+      },
+      "edit": {
+        "title": "¿Por qué mantener tu perfil actualizado?",
+        "check1": "Un perfil actualizado mejora tus oportunidades de colaboración",
+        "check2": "Los cambios se reflejan inmediatamente en todas tus postulaciones",
+        "check3": "Información completa atrae a mejores marcas y oportunidades"
+      }
+    },
+    "sections": {
+      "basicInfo": "Información Básica",
+      "socialMedia": "Redes Sociales",
+      "personalInfo": "Información Personal",
+      "portfolio": "Portafolio de Trabajos",
+      "experience": "Experiencia",
+      "pricing": "Tarifas por Red Social"
+    },
+    "fields": {
+      "name": "Nombre",
+      "email": "Correo de contacto",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "username": "Nombre de usuario (@)",
+      "contentTypes": "Tipos de contenido * (Selecciona al menos uno)",
+      "selectedCategories": "Seleccionados",
+      "avatar": "Foto de perfil",
+      "age": "Edad",
+      "birthDate": "Fecha de nacimiento",
+      "location": "Ubicación",
+      "education": "Educación",
+      "experienceDescription": "Descripción de tu experiencia",
+      "experienceHint": "Mínimo 20 caracteres"
+    },
+    "placeholders": {
+      "name": "Tu nombre completo",
+      "email": "tu@email.com",
+      "password": "Mínimo 8 caracteres",
+      "confirmPassword": "Repite tu contraseña",
+      "username": "@tu_usuario",
+      "age": "Tu edad",
+      "location": "Ciudad, País",
+      "education": "Nivel educativo",
+      "experienceDescription": "Describe tu experiencia como creador de contenido..."
+    },
+    "categories": {
+      "art": "Arte"
+    },
+    "avatar": {
+      "remove": "Eliminar foto",
+      "uploadPrompt": "Sube tu foto de perfil",
+      "selectFile": "Seleccionar archivo"
+    },
+    "social": {
+      "itemLabel": "Red Social #{{number}}",
+      "platformPlaceholder": "Plataforma (ej: Instagram)",
+      "usernamePlaceholder": "Usuario",
+      "followersPlaceholder": "Seguidores",
+      "addBtn": "Agregar red social"
+    },
+    "portfolio": {
+      "uploadPrompt": "Sube imágenes de tus trabajos",
+      "selectImage": "Seleccionar imagen"
+    },
+    "pricing": {
+      "currencyNote": "Todas las tarifas se manejan en USD (Dólares Estadounidenses)",
+      "itemLabel": "Tarifa #{{number}}",
+      "selectPlatform": "Selecciona red social",
+      "perPost": "Por publicación",
+      "perStory": "Por historia",
+      "perLive": "Por en vivo",
+      "addBtn": "Agregar tarifa"
+    },
+    "submit": {
+      "saving": "Guardando...",
+      "create": "Crear perfil",
+      "update": "Actualizar perfil"
+    },
+    "incomplete": {
+      "title": "Completa todos los campos requeridos",
+      "avatar": "Sube tu foto de perfil",
+      "social": "Agrega al menos una red social",
+      "pricing": "Agrega al menos una tarifa",
+      "portfolio": "Sube al menos una imagen de portafolio"
+    },
+    "success": {
+      "titleCreate": "¡Perfil creado con éxito!",
+      "titleEdit": "¡Perfil actualizado con éxito!",
+      "subtitleCreate": "Redirigiendo a tu perfil...",
+      "subtitleEdit": "Tu perfil ha sido actualizado correctamente"
+    },
+    "validation": {
+      "nameRequired": "El nombre es obligatorio",
+      "nameMin": "El nombre debe tener al menos 3 caracteres",
+      "emailRequired": "El email es obligatorio",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordMin": "Mínimo 8 caracteres",
+      "confirmPasswordRequired": "Confirma tu contraseña",
+      "usernameRequired": "El nombre de usuario es obligatorio",
+      "usernameAt": "Debe comenzar con @",
+      "contentTypesRequired": "Los tipos de contenido son obligatorios",
+      "ageRequired": "La edad es obligatoria",
+      "ageMin": "Debes tener al menos 13 años",
+      "ageInvalid": "Edad inválida",
+      "birthDateRequired": "La fecha de nacimiento es obligatoria",
+      "locationRequired": "La ubicación es obligatoria",
+      "educationRequired": "La educación es obligatoria",
+      "experienceRequired": "La descripción de experiencia es obligatoria",
+      "experienceMin": "Mínimo 20 caracteres"
+    }
+  },
+  "creatorPublicProfile": {
+    "notFound": "Creador no encontrado",
+    "loginRequired": "Debes iniciar sesión como empresa para contactar con creadores",
+    "collaborationMessage": "¡Hola {{creatorName}}! Me encantaría hablar contigo sobre una posible colaboración con {{companyName}}. ¿Tienes disponibilidad para discutir algunos detalles?",
+    "backToCreators": "Volver a explorar creadores",
+    "save": "Guardar",
+    "saved": "Guardado",
+    "verifiedProfile": "Perfil Verificado ✓",
+    "followers": "seguidores",
+    "noReviews": "Este creador aún no tiene reseñas públicas",
+    "experienceNotSpecified": "No especificada",
+    "pricingCurrencyNote": "Todas las tarifas están en USD (Dólares Estadounidenses)",
+    "aiRecommended": {
+      "title": "⭐ Recomendado por IA según tu perfil",
+      "description": "Este creador coincide perfectamente con tu sector \"{{sector}}\" y los objetivos de tu empresa. Nuestra inteligencia artificial identificó una alta compatibilidad para colaboraciones exitosas basándose en:",
+      "check1": "✓ Alineación con tu industria y nicho",
+      "check2": "✓ Audiencia objetivo compatible",
+      "check3": "✓ Historial de colaboraciones exitosas"
+    },
+    "stats": {
+      "totalReach": "Alcance Total",
+      "avgRating": "Rating Promedio",
+      "collaborations": "Colaboraciones",
+      "noRating": "N/A"
+    },
+    "sections": {
+      "socialAudience": "Redes Sociales y Audiencia",
+      "pricing": "Tarifas por Red Social",
+      "portfolio": "Portafolio de Trabajos",
+      "reviews": "Reseñas y Testimonios ({{count}})",
+      "personalInfo": "Información Personal",
+      "experience": "Experiencia"
+    },
+    "pricing": {
+      "perPost": "Por publicación",
+      "perStory": "Por historia",
+      "perLive": "Por en vivo"
+    },
+    "personalInfo": {
+      "age": "Edad",
+      "ageValue": "{{age}} años",
+      "birthDate": "Fecha de Nacimiento",
+      "location": "Ubicación",
+      "education": "Educación"
+    },
+    "followerCategory": {
+      "mega": "Mega Influencer",
+      "macro": "Macro Influencer",
+      "midTier": "Mid-tier Influencer",
+      "micro": "Micro Influencer",
+      "nano": "Nano Influencer"
+    },
+    "cta": {
+      "title": "¿Interesado en colaborar?",
+      "subtitle": "Inicia una campaña o contacta directamente a este creador",
+      "button": "Iniciar Colaboración"
+    },
+    "savedToShortlist": {
+      "title": "Guardado en tu shortlist",
+      "description": "Puedes acceder a este perfil desde tus favoritos cuando crees una campaña"
+    }
+  },
+  "creatorMessages": {
+    "searchPlaceholder": "Buscar conversaciones...",
+    "youPrefix": "Tú: ",
+    "empty": {
+      "title": "No hay conversaciones",
+      "subtitle": "Postula a campañas para conectar con empresas"
+    },
+    "time": {
+      "yesterday": "Ayer"
+    },
+    "chat": {
+      "systemSubtitle": "Cuenta oficial verificada · Solo lectura",
+      "creatorType": "Creador de contenido",
+      "companyType": "Empresa",
+      "emptyTitle": "Comienza la conversación",
+      "emptySubtitle": "Envía un mensaje para iniciar esta colaboración",
+      "systemReadOnly": "Esta es una conversación oficial de MatchCreator · Solo lectura"
+    },
+    "selectConversation": {
+      "title": "Selecciona una conversación",
+      "subtitle": "Elige una conversación de la lista para comenzar a chatear"
+    }
+  },
+  "campaignDetail": {
+    "notFound": "Campaña no encontrada",
+    "backToCampaigns": "Volver a campañas",
+    "coverAlt": "Portada de Campaña",
+    "activeCampaign": "Campaña Activa",
+    "organizedBy": "Organizado por",
+    "paymentOffered": "Pago Ofrecido",
+    "duration": "Duración",
+    "campaignDescription": "Descripción de la Campaña",
+    "campaignBrief": "Brief de Campaña",
+    "keyMessage": "Mensaje Clave",
+    "targetAudience": "Audiencia Objetivo",
+    "callToAction": "Call to Action",
+    "collaborationObjective": "Objetivo de Colaboración",
+    "requiredContent": "Contenido Requerido",
+    "creatorRequirements": "Requisitos del Creador",
+    "minEngagement": "Engagement mínimo:",
+    "creatorsNeeded": "Creadores necesarios:",
+    "location": "Ubicación:",
+    "minFollowersByPlatform": "Seguidores mínimos por plataforma:",
+    "detailedTimeline": "Timeline Detallado",
+    "campaignStart": "Inicio de campaña",
+    "campaignEnd": "Fin de campaña",
+    "deliveryDeadline": "Fecha límite de entrega",
+    "paymentInformation": "Información de Pago",
+    "totalBudget": "Presupuesto total",
+    "perCreator": "Por creador",
+    "paymentType": "Tipo de pago",
+    "requiredPlatforms": "Plataformas Requeridas",
+    "requiredForCampaign": "Requeridas para la campaña",
+    "whatYouNeedToDo": "Qué Debes Hacer",
+    "requirements": "Requisitos",
+    "visualAlt": "Visual de campaña",
+    "professionalCollaboration": "Colaboración Profesional",
+    "professionalCollaborationDesc": "Esta campaña busca crear contenido de alta calidad que conecte con audiencias auténticas.",
+    "alreadyApplied": "Ya te postulaste",
+    "viewStatusInMyApplications": "Puedes ver el estado en \"Mis Postulaciones\"",
+    "viewMyApplications": "Ver Mis Postulaciones",
+    "readyToCollaborate": "¿Listo para colaborar?",
+    "applyNowDesc": "Postúlate ahora y sé parte de esta increíble campaña",
+    "applyNow": "Postularme Ahora",
+    "creatorConnectTip": "Consejo de CreatorConnect",
+    "creatorConnectTipDesc": "Lee todos los requisitos cuidadosamente antes de postularte. Una propuesta bien pensada aumenta tus posibilidades de ser seleccionado.",
+    "fallback": {
+      "createAuthenticContentTitle": "Crea contenido auténtico",
+      "createAuthenticContentDesc": "Genera contenido original que resuene con tu audiencia mientras cumples los objetivos de la campaña.",
+      "publishOnPlatformsTitle": "Publica en las plataformas indicadas",
+      "publishOnPlatformsDesc": "Asegúrate de publicar en {{platforms}} según lo acordado con la empresa.",
+      "reportMetricsTitle": "Reporta métricas y resultados",
+      "reportMetricsDesc": "Comparte estadísticas de alcance, engagement e impacto de tus publicaciones al finalizar.",
+      "maintainCommunicationTitle": "Mantén comunicación",
+      "maintainCommunicationDesc": "Mantén comunicación fluida con la empresa durante toda la duración de la campaña."
+    }
+  },
+  "createCampaign": {
+    "title": {
+      "create": "Crear nueva campaña",
+      "edit": "Editar campaña"
+    },
+    "subtitle": {
+      "create": "Completa la información para publicar tu campaña",
+      "edit": "Actualiza los detalles de tu campaña"
+    },
+    "sections": {
+      "basicInfo": "Información básica",
+      "payment": "Pago en USD",
+      "categories": "Categorías",
+      "platforms": "Redes sociales",
+      "duration": "Duración",
+      "requirements": "Requisitos",
+      "deliverables": "¿Qué debe hacer el influencer?",
+      "images": "Imágenes de la campaña"
+    },
+    "fields": {
+      "campaignName": "Nombre de la campaña",
+      "description": "Descripción",
+      "budget": "Presupuesto total (USD)",
+      "startDate": "Fecha de inicio",
+      "endDate": "Fecha de fin"
+    },
+    "placeholders": {
+      "campaignName": "Ej: Lanzamiento verano 2025",
+      "description": "Describe de qué trata esta campaña...",
+      "requirement": "Ej: Mínimo 10,000 seguidores en Instagram...",
+      "deliverable": "Ej: Publicar 1 Reel de 30s mencionando la marca..."
+    },
+    "hints": {
+      "categories": "Selecciona las categorías que mejor describen tu campaña (múltiple selección)",
+      "platforms": "Selecciona las plataformas donde se publicará el contenido",
+      "requirements": "Lista los requisitos que debe cumplir el influencer para postularse",
+      "deliverables": "Lista los entregables o acciones que esperas del influencer",
+      "editHint": "Puedes editar cada ítem haciendo clic en el texto. Presiona Enter para agregar rápido."
+    },
+    "addBtn": "Agregar",
+    "submit": {
+      "saving": "Guardando...",
+      "publishing": "Publicando...",
+      "saveChanges": "Guardar cambios",
+      "publish": "Publicar campaña"
+    },
+    "images": {
+      "mainLabel": "Imagen principal",
+      "mainHint": "Imagen cuadrada o vertical (ej. 1:1 o 4:5). Aparece como portada de la campaña.",
+      "bannerLabel": "Imagen banner (horizontal)",
+      "bannerHint": "Imagen apaisada (ej. 16:9 o 21:9). Se usa como cabecera o banner.",
+      "changeImage": "Cambiar imagen",
+      "clickToUpload": "Haz clic para subir"
+    },
+    "validation": {
+      "nameRequired": "El nombre es obligatorio",
+      "descriptionRequired": "La descripción es obligatoria",
+      "budgetRequired": "El presupuesto es obligatorio",
+      "budgetInvalid": "Ingresa un valor numérico válido",
+      "categoriesRequired": "Selecciona al menos una categoría",
+      "platformsRequired": "Selecciona al menos una red social",
+      "startDateRequired": "La fecha de inicio es obligatoria",
+      "endDateRequired": "La fecha de fin es obligatoria",
+      "dateRange": "La fecha de fin debe ser posterior a la de inicio",
+      "requirementsRequired": "Agrega al menos un requisito",
+      "deliverablesRequired": "Agrega al menos una acción o entregable"
+    },
+    "success": {
+      "titleCreate": "¡Campaña publicada!",
+      "titleEdit": "¡Campaña actualizada!",
+      "subtitleCreate": "Tu campaña ya es visible para los influencers.",
+      "subtitleEdit": "Los cambios se han guardado correctamente.",
+      "check1Create": "Campaña creada exitosamente",
+      "check1Edit": "Información actualizada",
+      "check2Create": "Visible en el listado de campañas",
+      "check2Edit": "Cambios reflejados en el sistema",
+      "check3Create": "Influencers pueden postularse ahora",
+      "check3Edit": "Listo para recibir más postulaciones"
+    },
+    "categories": {
+      "gaming": "Gaming",
+      "fashion": "Moda",
+      "fitness": "Fitness",
+      "education": "Educación",
+      "technology": "Tecnología",
+      "beauty": "Belleza",
+      "food": "Comida",
+      "travel": "Viajes",
+      "lifestyle": "Lifestyle",
+      "entertainment": "Entretenimiento",
+      "sports": "Deportes",
+      "music": "Música",
+      "artDesign": "Arte & Diseño",
+      "finance": "Finanzas",
+      "healthWellness": "Salud & Bienestar",
+      "pets": "Mascotas",
+      "humor": "Humor",
+      "business": "Negocios",
+      "politics": "Política",
+      "science": "Ciencia",
+      "nature": "Naturaleza",
+      "photography": "Fotografía",
+      "architecture": "Arquitectura",
+      "drinks": "Bebidas",
+      "maternity": "Maternidad",
+      "cars": "Automóviles",
+      "books": "Libros",
+      "sustainability": "Sostenibilidad",
+      "spirituality": "Espiritualidad",
+      "diyHandcrafts": "DIY & Manualidades"
+    }
+  },
+  "companyReviews": {
+    "title": "Reseñas",
+    "subtitle": "Gestiona tus reseñas y feedback de colaboraciones",
+    "notAvailable": "N/A",
+    "reviewSingular": "reseña",
+    "reviewPlural": "reseñas",
+    "comments": "Comentarios",
+    "tabs": {
+      "received": "Reseñas Recibidas",
+      "write": "Escribir Reseñas"
+    },
+    "emptyReceived": {
+      "title": "No tienes reseñas aún",
+      "subtitle": "Completa tu primera colaboración para recibir feedback de los creadores"
+    },
+    "emptyWrite": {
+      "title": "No hay colaboraciones completadas",
+      "subtitle": "Una vez que aceptes y completes colaboraciones con creadores, podrás dejar reseñas aquí"
+    },
+    "shareExperience": {
+      "title": "Comparte tu experiencia",
+      "subtitle": "Ayuda a otras empresas dejando reseñas honestas"
+    },
+    "creatorCard": {
+      "completedCollaboration": "Colaboración completada"
+    },
+    "form": {
+      "rating": "Calificación",
+      "comment": "Comentario",
+      "commentPlaceholder": "Comparte tu experiencia trabajando con este creador...",
+      "submitting": "Enviando...",
+      "submit": "Enviar Reseña",
+      "cancel": "Cancelar"
+    },
+    "alreadyReviewed": "Ya has reseñado a este creador",
+    "writeReviewButton": "Escribir Reseña",
+    "toast": {
+      "reviewSubmitted": "Reseña enviada con éxito"
+    }
+  },
+  "companyRegister": {
+    "header": {
+      "backToProfile": "Volver al perfil",
+      "alreadyHaveAccount": "Ya tengo cuenta"
+    },
+    "title": {
+      "create": "Crea tu cuenta empresarial",
+      "edit": "Editar perfil empresarial"
+    },
+    "subtitle": {
+      "create": "Completa tu perfil para conectar con creadores adecuados",
+      "edit": "Actualiza la información de tu empresa"
+    },
+    "infoBlock": {
+      "create": {
+        "title": "¿Qué sucede después del registro?",
+        "check1": "Tu perfil será visible para creadores verificados en la plataforma",
+        "check2": "Podrás buscar y contactar creadores según tus necesidades",
+        "check3": "Nuestra IA te recomendará colaboradores ideales para tu marca",
+        "check4": "Podrás crear y gestionar campañas desde tu dashboard"
+      },
+      "edit": {
+        "title": "¿Por qué mantener tu perfil actualizado?",
+        "check1": "Un perfil actualizado mejora las recomendaciones de creadores",
+        "check2": "Los cambios se reflejan inmediatamente en todas las campañas",
+        "check3": "Información clara atrae a mejores colaboradores"
+      }
+    },
+    "form": {
+      "titleCreate": "Información de la Empresa",
+      "titleEdit": "Editar Información"
+    },
+    "fields": {
+      "name": "Nombre de la empresa",
+      "logo": "Logo de la empresa",
+      "logoOptional": "opcional",
+      "email": "Email corporativo",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "sector": "Industria",
+      "budget": "Presupuesto estimado mensual",
+      "description": "Descripción de la empresa"
+    },
+    "placeholders": {
+      "name": "Ej: Mi Empresa S.A.",
+      "email": "contacto@miempresa.com",
+      "password": "Mínimo 6 caracteres",
+      "confirmPassword": "Repite tu contraseña",
+      "sector": "Selecciona una industria",
+      "budget": "Selecciona un rango",
+      "description": "Describe tu empresa, qué hacen, sus valores y objetivos (ej: Somos una empresa de tecnología enfocada en...)"
+    },
+    "sectors": {
+      "technology": "Tecnología",
+      "fashion": "Moda",
+      "foodBeverage": "Alimentos y Bebidas",
+      "healthWellness": "Salud y Bienestar",
+      "education": "Educación",
+      "entertainment": "Entretenimiento",
+      "beauty": "Belleza",
+      "sports": "Deportes",
+      "travel": "Viajes",
+      "finance": "Finanzas",
+      "other": "Otro"
+    },
+    "hints": {
+      "name": "El nombre oficial de tu empresa u organización",
+      "email": "Usaremos este email para contactarte",
+      "sector": "Sector principal de tu empresa",
+      "budget": "Esto nos ayuda a recomendar creadores adecuados",
+      "budgetTooltip": "Presupuesto aproximado para campañas de marketing con creadores",
+      "description": "Una buena descripción ayuda a los creadores a conocer mejor tu empresa"
+    },
+    "fieldValid": {
+      "name": "✓ Nombre válido",
+      "email": "✓ Email válido",
+      "password": "✓ Contraseña segura",
+      "confirmPassword": "✓ Las contraseñas coinciden",
+      "description": "✓ Descripción clara"
+    },
+    "logo": {
+      "remove": "Eliminar logo",
+      "uploadPrompt": "Arrastra tu logo aquí o haz clic para seleccionar",
+      "selectFile": "Seleccionar archivo",
+      "formatHint": "Formatos: JPG, PNG. Tamaño máximo: 5MB"
+    },
+    "submit": {
+      "saving": "Guardando cambios...",
+      "creating": "Creando cuenta...",
+      "saveChanges": "Guardar cambios",
+      "create": "Crear cuenta",
+      "undoChanges": "Deshacer cambios",
+      "clearForm": "Limpiar formulario"
+    },
+    "success": {
+      "titleCreate": "¡Cuenta creada exitosamente!",
+      "titleEdit": "¡Perfil actualizado exitosamente!",
+      "subtitleCreate": "Tu perfil está listo para conectar con creadores",
+      "subtitleEdit": "Los cambios se han guardado correctamente",
+      "check1Create": "Perfil empresarial configurado",
+      "check1Edit": "Información actualizada",
+      "check2Create": "Email verificado",
+      "check2Edit": "Cambios guardados correctamente",
+      "check3Create": "Listo para crear campañas",
+      "check3Edit": "Perfil listo para nuevas campañas",
+      "redirecting": "Redirigiendo al dashboard..."
+    },
+    "preview": {
+      "title": "Vista previa del perfil",
+      "subtitle": "Así verán tu perfil los creadores",
+      "namePlaceholder": "Nombre de empresa",
+      "sectorPlaceholder": "Industria",
+      "budgetLabel": "Presupuesto",
+      "budgetEmpty": "No especificado",
+      "objectiveLabel": "Objetivo"
+    },
+    "help": {
+      "title": "¿Necesitas ayuda?",
+      "subtitle": "Estamos aquí para ayudarte a configurar tu perfil correctamente",
+      "guideLink": "Ver guía de uso"
+    },
+    "tips": {
+      "title": "💡 Consejos",
+      "tip1": "Usa un logo de alta calidad para mejor impresión",
+      "tip2": "Sé específico en tu objetivo de campaña",
+      "tip3": "Completa todos los campos para mejores recomendaciones"
+    },
+    "modal": {
+      "titleCreate": "¿Confirmas crear la cuenta?",
+      "titleEdit": "¿Guardar los cambios?",
+      "subtitleCreate": "Estás a punto de crear tu cuenta empresarial con los datos proporcionados.",
+      "subtitleEdit": "Los cambios se aplicarán inmediatamente a tu perfil empresarial."
+    },
+    "validation": {
+      "nameRequired": "El nombre de la empresa es obligatorio",
+      "nameMin": "El nombre debe tener al menos 3 caracteres",
+      "emailRequired": "El email es obligatorio",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordMin": "Mínimo 6 caracteres",
+      "confirmPasswordRequired": "Confirma tu contraseña",
+      "sectorRequired": "Selecciona un sector",
+      "budgetRequired": "Selecciona un presupuesto",
+      "descriptionRequired": "Describe tu empresa",
+      "descriptionMin": "Describe con más detalle (mínimo 20 caracteres)"
+    }
+  },
+  "companyProfile": {
+    "notFound": "Empresa no encontrada",
+    "notAvailable": "N/A",
+    "coverAlt": "Portada",
+    "editProfile": "Editar Perfil",
+    "aboutCompany": "Sobre la empresa",
+    "collaborationObjectives": "Objetivos de colaboración",
+    "noObjectives": "Esta empresa aún no tiene objetivos definidos",
+    "availableCampaigns": "Campañas disponibles",
+    "creatorReviews": "Reseñas de creadores",
+    "budget": "Presupuesto",
+    "monthlyInvestment": "Inversión mensual en colaboraciones",
+    "industry": "Industria",
+    "contact": "Contacto",
+    "statistics": "Estadísticas",
+    "averageRating": "Calificación promedio",
+    "collaborations": "Colaboraciones",
+    "activeCampaigns": "Campañas activas",
+    "status": "Estado",
+    "verified": "Verificado",
+    "stats": {
+      "rating": "Calificación",
+      "activeCampaigns": "Campañas activas",
+      "collaborations": "Colaboraciones"
+    }
+  },
+  "companyMessages": {
+    "searchPlaceholder": "Buscar conversaciones...",
+    "youPrefix": "Tú: ",
+    "empty": {
+      "title": "No hay conversaciones",
+      "subtitle": "Explora creadores y comienza a colaborar"
+    },
+    "time": {
+      "yesterday": "Ayer"
+    },
+    "chat": {
+      "systemSubtitle": "Cuenta oficial verificada · Solo lectura",
+      "creatorType": "Creador de contenido",
+      "companyType": "Empresa",
+      "emptyTitle": "Comienza la conversación",
+      "emptySubtitle": "Envía un mensaje para iniciar esta colaboración",
+      "systemReadOnly": "Esta es una conversación oficial de MatchCreator · Solo lectura"
+    },
+    "selectConversation": {
+      "title": "Selecciona una conversación",
+      "subtitle": "Elige una conversación de la lista para comenzar a chatear"
+    }
+  },
+  "companyPublicProfile": {
+    "notFound": "Empresa no encontrada",
+    "verifiedCompany": "Empresa Verificada ✓",
+    "stats": {
+      "rating": "Calificación",
+      "activeCampaigns": "Campañas Activas",
+      "collaborations": "Colaboraciones"
+    },
+    "sections": {
+      "about": "Sobre la Empresa",
+      "objectives": "Objetivos de Colaboración",
+      "activeCampaigns": "Campañas Activas ({{count}})",
+      "reviews": "Reseñas de Creadores ({{count}})"
+    },
+    "objectives": {
+      "empty": "Esta empresa aún no tiene objetivos definidos"
+    },
+    "sidebar": {
+      "budget": "Presupuesto",
+      "budgetHint": "Inversión mensual en colaboraciones",
+      "industry": "Industria",
+      "contact": "Contacto",
+      "statsTitle": "Estadísticas",
+      "avgRating": "Calificación promedio",
+      "collaborations": "Colaboraciones",
+      "activeCampaigns": "Campañas activas"
+    },
+    "cta": {
+      "title": "{{count}} Campaña Activa",
+      "title_other": "{{count}} Campañas Activas",
+      "subtitle": "Explora las oportunidades de colaboración disponibles",
+      "button": "Ver Todas las Campañas"
+    }
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "subtitle": "Lo sentimos, la página que buscas no existe.",
+    "backHome": "Volver al inicio"
+  },
+  "companyCampaignDetail": {
+    "notFound": "Campaña no encontrada",
+    "backToCampaigns": "Volver a mis campañas",
+    "closeCampaign": "Cerrar campaña",
+    "confirmClose": "¿Estás seguro de cerrar esta campaña?",
+    "confirmReject": "¿Estás seguro de rechazar esta postulación?",
+    "statusActive": "Campaña Activa",
+    "statusClosed": "Campaña Cerrada",
+    "yourCompany": "Tu empresa",
+    "stats": {
+      "budget": "Presupuesto USD",
+      "applications": "Postulaciones",
+      "duration": "Duración"
+    },
+    "tabs": {
+      "overview": "Vista General",
+      "applicants": "Postulaciones"
+    },
+    "overview": {
+      "description": "Descripción de la campaña",
+      "platforms": "Plataformas objetivo",
+      "publishChannel": "Canal de publicación",
+      "deliverables": "Qué debe hacer el influencer",
+      "selectionSummary": "Resumen de selección",
+      "totalApplications": "Total postulaciones",
+      "accepted": "Aceptados",
+      "pending": "Pendientes",
+      "requirements": "Requisitos",
+      "timeline": "Timeline",
+      "startDate": "Inicio",
+      "endDate": "Finalización"
+    },
+    "editHint": {
+      "title": "¿Necesitas ajustar algo?",
+      "subtitle": "Edita los detalles de tu campaña en cualquier momento.",
+      "button": "Editar campaña"
+    },
+    "applicants": {
+      "empty": {
+        "title": "Sin postulaciones aún",
+        "subtitle": "Los influencers podrán postularse cuando descubran tu campaña."
+      },
+      "card": {
+        "followers": "Seguidores",
+        "networks": "Redes",
+        "rating": "Rating",
+        "newCreator": "Nuevo",
+        "appliedOn": "Postulado el",
+        "viewProfile": "Ver perfil"
+      }
+    },
+    "messages": {
+      "acceptedCompany": "¡Hola {{creatorName}}! Revisamos tu perfil y te aceptamos en la campaña \"{{campaignName}}\". Contáctanos para continuar con los detalles de la colaboración. 🎉",
+      "acceptedSystem": "✅ ¡Felicidades! Fuiste aceptado en la campaña \"{{campaignName}}\" de {{companyName}}. La empresa te contactará pronto para coordinar los detalles.",
+      "rejectedSystem": "Lamentamos informarte que tu postulación a la campaña \"{{campaignName}}\" de {{companyName}} no fue seleccionada en esta ocasión. Te invitamos a seguir explorando otras oportunidades en la plataforma. ¡Mucho éxito! 💪"
+    },
+    "notifications": {
+      "acceptedTitle": "¡Fuiste aceptado!",
+      "acceptedMessage": "Has sido aceptado en la campaña \"{{campaignName}}\"",
+      "rejectedTitle": "Actualización de postulación",
+      "rejectedMessage": "Tu postulación a \"{{campaignName}}\" no fue seleccionada"
+    }
+  },
+  "companySidebar": {
+    "profile": {
+      "defaultName": "Mi Empresa",
+      "role": "Empresa"
+    },
+    "menu": {
+      "profile": {
+        "label": "Perfil",
+        "description": "Ver mis datos"
+      },
+      "browseCreators": {
+        "label": "Buscar Creadores",
+        "description": "Explorar talento"
+      },
+      "messages": {
+        "label": "Mensajes",
+        "description": "Chat con creadores"
+      },
+      "createCampaign": {
+        "label": "Crear Campaña",
+        "description": "Nueva campaña"
+      },
+      "myCampaigns": {
+        "label": "Mis Campañas",
+        "description": "Administrar"
+      },
+      "reviews": {
+        "label": "Reseñas",
+        "description": "Feedback"
+      }
+    },
+    "logout": "Cerrar sesión"
+  },
+  "browseCreatorsPage": {
+    "header": {
+      "title": "Descubre Talento Creativo",
+      "subtitle": "Miles de creadores esperando colaborar con tu marca",
+      "results": "Resultados"
+    },
+    "searchPlaceholder": "Buscar creadores por nombre, nicho, especialidad...",
+    "filtersLabel": "FILTROS:",
+    "filters": {
+      "socialNetwork": "Red Social",
+      "category": "Categoría",
+      "reach": "Alcance"
+    },
+    "clearFilters": "Limpiar ({{count}})",
+    "availableTitle": "Creadores Disponibles",
+    "aiRecommendation": {
+      "button": "🤖 Recomendar con IA",
+      "buttonActive": "Recomendando...",
+      "analyzing": "Analizando tu perfil...",
+      "matching": "Buscando los mejores matches...",
+      "complete": "¡Recomendaciones listas!",
+      "description": "Nuestra IA ha analizado tu perfil y ha encontrado las mejores opciones para tu sector \"{{sector}}\"",
+      "noRecommendations": "No encontramos recomendaciones específicas en este momento. Prueba ajustando tus filtros."
+    },
+    "aiCard": {
+      "topAI": "Top IA"
+    },
+    "card": {
+      "aiRecommended": "Recomendado IA",
+      "saveCreator": "Guardar creador",
+      "followers": "Seguidores",
+      "networks": "Redes"
+    },
+    "empty": {
+      "title": "No encontramos creadores",
+      "subtitle": "Ajusta tus filtros o búsqueda para descubrir más talento",
+      "clearBtn": "Limpiar Filtros"
+    },
+    "categories": {
+      "tech": "Tech",
+      "gaming": "Gaming",
+      "fashion": "Moda",
+      "lifestyle": "Lifestyle",
+      "fitness": "Fitness",
+      "beauty": "Belleza",
+      "travel": "Viajes",
+      "food": "Food",
+      "design": "Diseño",
+      "wellness": "Wellness",
+      "yoga": "Yoga"
+    }
+  }
+}

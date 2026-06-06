@@ -1,0 +1,1405 @@
+{
+  "common": {
+    "login": "Log in",
+    "logout": "Log out",
+    "register": "Sign up",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "send": "Send",
+    "view": "View",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "all": "All",
+    "none": "None",
+    "apply": "Apply",
+    "reset": "Reset",
+    "upload": "Upload",
+    "download": "Download",
+    "share": "Share"
+  },
+  "nav": {
+    "profile": "Profile",
+    "campaigns": "Campaigns",
+    "applications": "Applications",
+    "messages": "Messages",
+    "reviews": "Reviews",
+    "browse": "Browse",
+    "create": "Create",
+    "myCampaigns": "My Campaigns",
+    "browseCreators": "Browse Creators"
+  },
+  "landing": {
+    "badge": "Collaboration Platform",
+    "title": "Connect with <1>creators</1> and companies",
+    "subtitle": "Where brands meet their perfect creators. AI-powered matching, incredibles campaigns, and amazing results.",
+    "iamCreator": "I'm a Creator",
+    "iamCompany": "I'm a Company",
+    "footer": "© 2026 MatchCreator · Connecting talent with opportunities.",
+    "features": {
+      "whyLabel": "Why MatchCreator?",
+      "title": "Everything you need",
+      "subtitle": "in one place",
+      "whySubtitle": "Designed to connect intelligently, fast and reliably between creators and brands.",
+      "ai": {
+        "title": "AI Matching",
+        "description": "Our AI analyzes profiles and finds the best matches between brands and creators."
+      },
+      "growth": {
+        "title": "Real Growth",
+        "description": "Access data and metrics that help you continuously improve your campaigns."
+      },
+      "secure": {
+        "title": "Safe & Reliable",
+        "description": "Bidirectional review system and secure collaboration management."
+      }
+    },
+    "forCreators": {
+      "chipLabel": "For Creators",
+      "title": "Take your content to the next level",
+      "subtitle": "Access campaigns from top brands, manage collaborations, and build your professional portfolio.",
+      "check1": "Find perfect campaigns",
+      "check2": "Manage collaborations",
+      "check3": "Receive secure payments",
+      "registerBtn": "Register as Creator",
+      "badge": "For Creators",
+      "feature1": "Find perfect campaigns",
+      "feature2": "Manage collaborations",
+      "feature3": "Receive secure payments",
+      "feature4": "Build your reputation"
+    },
+    "forCompanies": {
+      "chipLabel": "For Companies",
+      "title": "Find the perfect creators",
+      "subtitle": "Access thousands of verified creators, launch campaigns, and scale your influencer marketing.",
+      "check1": "AI-powered search",
+      "check2": "Easy campaign management",
+      "check3": "Real-time tracking",
+      "registerBtn": "Register as Company",
+      "badge": "For Companies",
+      "feature1": "AI-powered search",
+      "feature2": "Easy campaign management",
+      "feature3": "Real-time tracking",
+      "feature4": "Proven results"
+    },
+    "marquee": {
+      "tag1": "✦ Verified Creators",
+      "tag2": "✦ AI Matching",
+      "tag3": "✦ Real Brands",
+      "tag4": "✦ Authentic Collaborations",
+      "tag5": "✦ Transparent Reviews",
+      "tag6": "✦ Digital Growth",
+      "tag7": "✦ Social Media",
+      "tag8": "✦ Smart Marketing"
+    },
+    "stats": {
+      "creators": "Active creators",
+      "campaigns": "Completed campaigns",
+      "satisfaction": "Satisfaction",
+      "growth": "Monthly growth"
+    },
+    "testimonials": {
+      "title": "What our users say",
+      "creator1": {
+        "text": "MatchCreator transformed my career. Now I work with amazing brands and manage everything from one platform.",
+        "name": "María González",
+        "role": "Content Creator"
+      },
+      "company1": {
+        "text": "The AI helped us find perfect creators for our brand. The results exceeded our expectations.",
+        "name": "Carlos Ruiz",
+        "role": "Marketing Director"
+      }
+    },
+    "cta": {
+      "badge": "Join today",
+      "title": "Ready to get started?",
+      "subtitle": "Join the community of creators and companies transforming digital marketing.",
+      "getStarted": "Start now"
+    }
+  },
+  "login": {
+    "title": "Welcome back",
+    "subtitle": "Log in to continue",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "quickLogin": "Quick access",
+    "testAccounts": "Test accounts",
+    "creatorAccount": "Creator Test Account",
+    "creatorAccountDesc": "Explore creator features",
+    "companyAccount": "Company Test Account",
+    "companyAccountDesc": "Explore company features",
+    "emailLabel": "Email:",
+    "passwordLabel": "Password:",
+    "quickLoginCreator": "Quick Creator Access",
+    "quickLoginCompany": "Quick Company Access",
+    "creatorFeatures": "✨ Full profile · Apply to campaigns · Receive messages",
+    "companyFeatures": "🚀 Find creators · Create campaigns · Manage applicants",
+    "notFound": "Email not found. Use one of the test accounts.",
+    "error": {
+      "fillFields": "Please fill in all fields",
+      "invalidCredentials": "Invalid credentials"
+    }
+  },
+  "register": {
+    "creator": {
+      "title": "Creator Registration",
+      "subtitle": "Start your professional career",
+      "step1": "Basic information",
+      "step2": "Social media",
+      "step3": "Portfolio",
+      "step4": "Pricing",
+      "name": "Full name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "bio": "Biography",
+      "category": "Category",
+      "location": "Location",
+      "experience": "Experience",
+      "addSocial": "Add social media",
+      "platform": "Platform",
+      "username": "Username",
+      "followers": "Followers",
+      "addPortfolio": "Add work",
+      "portfolioUrl": "Work URL",
+      "perPost": "Per post",
+      "perStory": "Per story",
+      "perLive": "Per live",
+      "complete": "Complete registration",
+      "success": "Registration completed successfully"
+    },
+    "company": {
+      "title": "Company Registration",
+      "subtitle": "Find amazing creators",
+      "companyName": "Company name",
+      "industry": "Industry",
+      "website": "Website",
+      "description": "Description",
+      "contactName": "Contact name",
+      "contactEmail": "Contact email",
+      "contactPhone": "Contact phone"
+    }
+  },
+  "profile": {
+    "myProfile": "My Profile",
+    "editProfile": "Edit Profile",
+    "viewPublicProfile": "View public profile",
+    "stats": {
+      "campaigns": "Campaigns",
+      "rating": "Rating",
+      "reviews": "Reviews",
+      "collaborations": "Collaborations"
+    },
+    "about": "About",
+    "socialMedia": "Social Media",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "experience": "Experience",
+    "categories": "Categories"
+  },
+  "campaigns": {
+    "title": "Campaigns",
+    "available": "Available Campaigns",
+    "myCampaigns": "My Campaigns",
+    "createCampaign": "Create Campaign",
+    "campaignDetails": "Campaign Details",
+    "status": {
+      "draft": "Draft",
+      "active": "Active",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "form": {
+      "title": "Campaign title",
+      "description": "Description",
+      "budget": "Budget",
+      "category": "Category",
+      "requirements": "Requirements",
+      "deliverables": "Deliverables",
+      "deadline": "Deadline",
+      "platforms": "Platforms",
+      "minFollowers": "Minimum followers",
+      "maxFollowers": "Maximum followers"
+    },
+    "apply": "Apply",
+    "viewApplications": "View applications",
+    "applicants": "Applicants",
+    "accept": "Accept",
+    "reject": "Reject",
+    "aiMatch": "AI Match",
+    "matchScore": "Match score"
+  },
+  "applications": {
+    "title": "My Applications",
+    "notFound": "Application not found",
+    "backToApplications": "Back to applications",
+    "status": {
+      "sent": "Sent",
+      "reviewing": "Under Review",
+      "accepted": "Accepted",
+      "confirmed": "Confirmed",
+      "rejected": "Rejected",
+      "pending": "Pending",
+      "completed": "Completed"
+    },
+    "statusLabel": "Status",
+    "appliedOn": "Applied on",
+    "noApplications": "You don't have any applications yet",
+    "campaignDescription": "Campaign Description",
+    "budget": "Budget",
+    "dates": "Dates",
+    "objective": "Objective",
+    "totalApplicants": "Total Applicants",
+    "nextStep": "Next Step",
+    "acceptCollaboration": "Accept Collaboration",
+    "rejectCollaboration": "Reject Collaboration",
+    "rejectConfirm": "Are you sure you want to reject this collaboration? This action cannot be undone.",
+    "acceptToast": "Collaboration accepted! A message has been sent to the company.",
+    "rejectToast": "You have rejected the collaboration.",
+    "acceptMessage": "Hi! I have accepted the collaboration for the campaign \"{{campaignName}}\". I'm excited to work together. When can we coordinate the details? 🎉",
+    "sentTitle": "Your application has been sent",
+    "sentDesc": "The company is reviewing your profile. We will notify you when there is an update.",
+    "reviewingTitle": "Your application is under review",
+    "reviewingDesc": "The company is evaluating your profile. You will receive a response soon.",
+    "rejectedTitle": "This application was not accepted",
+    "rejectedDesc": "Don't worry, there are many other opportunities available.",
+    "confirmedTitle": "Collaboration confirmed! 🎉",
+    "confirmedDesc": "You have accepted the collaboration. You can coordinate details in the messages section.",
+    "goToMessages": "Go to Messages"
+  },
+  "messages": {
+    "title": "Messages",
+    "noMessages": "You don't have messages",
+    "newMessage": "New message",
+    "conversation": "Conversation",
+    "typeMessage": "Type a message...",
+    "notifications": "Notifications",
+    "markAsRead": "Mark as read",
+    "loginRequired": "You must log in to view messages"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "myReviews": "My Reviews",
+    "leaveReview": "Leave review",
+    "rating": "Rating",
+    "comment": "Comment",
+    "noReviews": "No reviews yet",
+    "averageRating": "Average rating",
+    "totalReviews": "Total reviews"
+  },
+  "browse": {
+    "title": "Browse Creators",
+    "filters": {
+      "category": "Category",
+      "followers": "Followers",
+      "location": "Location",
+      "rating": "Rating",
+      "availability": "Availability"
+    },
+    "sortBy": {
+      "relevance": "Relevance",
+      "rating": "Rating",
+      "followers": "Followers",
+      "recent": "Most recent"
+    },
+    "results": "results",
+    "noResults": "No results found"
+  },
+  "notifications": {
+    "newCampaign": "New campaign available",
+    "applicationAccepted": "Your application was accepted",
+    "applicationRejected": "Your application was rejected",
+    "newApplication": "New application received",
+    "newApplicationMessage": "{{creatorName}} applied to your campaign \"{{campaignName}}\"",
+    "newApplicant": "📬 New applicant for your campaign \"{{campaignName}}\": {{creatorName}}. Review their profile and decide whether to accept or reject.",
+    "newMessage": "New message",
+    "campaignEnding": "Campaign is ending soon",
+    "reviewReceived": "You received a new review"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email",
+    "passwordMismatch": "Passwords don't match",
+    "minLength": "Minimum length: {{length}} characters",
+    "maxLength": "Maximum length: {{length}} characters",
+    "networkError": "Network error. Try again",
+    "unauthorized": "Unauthorized",
+    "notFound": "Not found",
+    "serverError": "Server error"
+  },
+  "success": {
+    "saved": "Saved successfully",
+    "deleted": "Deleted successfully",
+    "updated": "Updated successfully",
+    "created": "Created successfully",
+    "sent": "Sent successfully"
+  },
+  "categories": {
+    "fashion": "Fashion",
+    "beauty": "Beauty",
+    "fitness": "Fitness",
+    "food": "Food",
+    "travel": "Travel",
+    "technology": "Technology",
+    "gaming": "Gaming",
+    "lifestyle": "Lifestyle",
+    "music": "Music",
+    "education": "Education",
+    "business": "Business",
+    "entertainment": "Entertainment",
+    "tech": "Tech",
+    "design": "Design",
+    "wellness": "Wellness",
+    "yoga": "Yoga",
+    "health": "Health"
+  },
+  "platforms": {
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "youtube": "YouTube",
+    "twitter": "Twitter",
+    "twitterX": "Twitter/X",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "twitch": "Twitch",
+    "pinterest": "Pinterest"
+  },
+  "dateFormats": {
+    "short": "MM/DD/YYYY",
+    "long": "MMMM D, YYYY",
+    "withTime": "MM/DD/YYYY HH:mm"
+  },
+  "currency": {
+    "symbol": "$",
+    "format": "${{amount}}"
+  },
+  "availableCampaigns": {
+    "header": {
+      "title": "Available Campaigns",
+      "subtitle": "Find perfect opportunities for you",
+      "results": "Results"
+    },
+    "searchPlaceholder": "Search campaigns by name, company, category...",
+    "aiRecommendation": {
+      "button": "Recommend Campaigns with AI",
+      "buttonActive": "Analyzing...",
+      "analyzing": "Analyzing your creator profile...",
+      "matching": "Finding compatible campaigns...",
+      "complete": "Recommendations completed",
+      "description": "Based on your profile and content"
+    },
+    "filters": {
+      "label": "FILTERS:",
+      "platform": "Platform",
+      "contentType": "Content Type",
+      "payment": "Payment",
+      "clear": "Clear ({{count}})",
+      "platforms": {
+        "twitterX": "Twitter/X"
+      },
+      "contentTypes": {
+        "tech": "Tech",
+        "gaming": "Gaming",
+        "fashion": "Fashion",
+        "lifestyle": "Lifestyle",
+        "fitness": "Fitness",
+        "beauty": "Beauty",
+        "travel": "Travel",
+        "food": "Food",
+        "design": "Design"
+      },
+      "budgetRanges": {
+        "low": "Low (< $500)",
+        "medium": "Medium ($500 - $2,000)",
+        "high": "High ($2,000 - $5,000)",
+        "premium": "Premium (> $5,000)"
+      }
+    },
+    "empty": {
+      "title": "We couldn't find campaigns",
+      "subtitle": "Adjust your filters or search to discover more opportunities",
+      "clearFilters": "Clear Filters"
+    },
+    "card": {
+      "recommended": "AI Recommended",
+      "save": "Save campaign",
+      "payment": "Payment",
+      "duration": "Duration",
+      "viewDetails": "View Details"
+    }
+  },
+  "browseCreators": {
+    "header": {
+      "title": "Discover Creative Talent",
+      "subtitle": "Thousands of creators ready to collaborate with your brand",
+      "results": "Results"
+    },
+    "searchPlaceholder": "Search creators by name, niche, specialty...",
+    "availableTitle": "Available Creators",
+    "filters": {
+      "label": "FILTERS:",
+      "socialNetwork": "Social Network",
+      "category": "Category",
+      "reach": "Reach",
+      "clear": "Clear ({{count}})"
+    },
+    "empty": {
+      "title": "We couldn't find creators",
+      "subtitle": "Adjust your filters or search to discover more talent",
+      "clearFilters": "Clear Filters"
+    },
+    "card": {
+      "aiRecommended": "AI Recommended",
+      "saveCreator": "Save creator",
+      "followers": "Followers",
+      "networks": "Networks"
+    },
+    "aiCard": {
+      "topAI": "TOP AI"
+    }
+  },
+  "followerRanges": {
+    "nano": "Nano (1K - 10K)",
+    "micro": "Micro (10K - 50K)",
+    "midTier": "Mid-tier (50K - 100K)",
+    "macro": "Macro (100K - 1M)",
+    "mega": "Mega (1M+)"
+  },
+  "creatorSidebar": {
+    "profile": {
+      "defaultName": "My Profile",
+      "role": "Creator"
+    },
+    "menu": {
+      "exploreCampaigns": {
+        "label": "Explore Campaigns",
+        "description": "Find opportunities"
+      },
+      "myApplications": {
+        "label": "My Applications",
+        "description": "My applications"
+      },
+      "messages": {
+        "label": "Messages",
+        "description": "Chat with companies"
+      },
+      "reviews": {
+        "label": "Reviews",
+        "description": "Rate companies"
+      },
+      "myProfile": {
+        "label": "My Profile",
+        "description": "Edit profile"
+      }
+    },
+    "logout": "Log out"
+  },
+  "myCampaigns": {
+    "title": "My Campaigns",
+    "subtitle": "Manage your marketing campaigns",
+    "newCampaign": "+ New Campaign",
+    "status": {
+      "active": "Active",
+      "closed": "Closed"
+    },
+    "empty": {
+      "title": "You have no campaigns yet",
+      "subtitle": "Create your first campaign to start receiving applications from creators",
+      "createBtn": "Create Campaign"
+    },
+    "actions": {
+      "close": "Close",
+      "activate": "Activate",
+      "closeCampaign": "Close campaign",
+      "activateCampaign": "Activate campaign",
+      "viewDetail": "View Detail",
+      "edit": "Edit"
+    },
+    "applicantsCount": "{{count}} applicant",
+    "applicantsCount_other": "{{count}} applicants",
+    "moreTypes": "+{{count}} more"
+  },
+  "myApplications": {
+    "subtitle": "Review the status of your campaign applications",
+    "emptyDescription": "Explore available campaigns and apply to the ones that interest you",
+    "viewAvailableCampaigns": "View Available Campaigns",
+    "viewDetail": "View Detail"
+  },
+  "creatorReviews": {
+    "title": "Reviews",
+    "subtitle": "Manage your reviews and collaboration feedback",
+    "toastSuccess": "Review submitted successfully",
+    "tabs": {
+      "received": "Received Reviews",
+      "write": "Write Reviews"
+    },
+    "received": {
+      "noRating": "N/A",
+      "reviewCount": "{{count}} review",
+      "reviewCount_other": "{{count}} reviews",
+      "commentsTitle": "Comments",
+      "empty": {
+        "title": "You have no reviews yet",
+        "subtitle": "Complete your first collaboration to receive feedback from companies"
+      }
+    },
+    "write": {
+      "noCollabs": {
+        "title": "No completed collaborations",
+        "subtitle": "Once you complete collaborations with companies, you can leave reviews here"
+      },
+      "banner": {
+        "title": "Share your experience",
+        "subtitle": "Help other creators by leaving honest reviews"
+      },
+      "collabCompleted": "Collaboration completed",
+      "alreadyReviewed": "You have already reviewed this company",
+      "writeBtn": "Write a Review",
+      "form": {
+        "ratingLabel": "Rating",
+        "commentLabel": "Comment",
+        "commentPlaceholder": "Share your experience working with this company...",
+        "submitBtn": "Submit Review",
+        "submitting": "Submitting..."
+      }
+    }
+  },
+  "creatorProfile": {
+    "loadingProfile": "Loading profile...",
+    "coverAlt": "Cover",
+    "editProfile": "Edit Profile",
+    "totalReach": "Total Reach",
+    "averageRating": "Average Rating",
+    "collaborations": "Collaborations",
+    "notAvailable": "N/A",
+    "socialMedia": "Social Media",
+    "followers": "followers",
+    "experience": "Experience",
+    "notSpecified": "Not specified",
+    "pricingByPlatform": "Pricing by Social Platform",
+    "pricingDisclaimer": "All pricing is in USD (United States Dollars)",
+    "perPost": "Per post",
+    "perStory": "Per story",
+    "perLive": "Per live",
+    "portfolio": "Portfolio",
+    "portfolioItemAlt": "Portfolio {{number}}",
+    "reviews": "Reviews",
+    "noReviewsYet": "You don't have reviews yet. Complete your first collaboration!"
+  },
+  "creatorRegister": {
+    "header": {
+      "backToProfile": "Back to profile",
+      "alreadyHaveAccount": "I already have an account"
+    },
+    "title": {
+      "create": "Create your creator profile",
+      "edit": "Edit creator profile"
+    },
+    "subtitle": {
+      "create": "Complete your information to connect with brands",
+      "edit": "Update your information as a creator"
+    },
+    "infoBlock": {
+      "create": {
+        "title": "What happens after registration?",
+        "check1": "Your profile will be visible to verified companies on the platform",
+        "check2": "You can explore and apply to campaigns based on your niche",
+        "check3": "Our AI will recommend ideal campaigns for your audience",
+        "check4": "You can manage your collaborations and receive reviews from your dashboard"
+      },
+      "edit": {
+        "title": "Why keep your profile updated?",
+        "check1": "An updated profile improves your collaboration opportunities",
+        "check2": "Changes are immediately reflected in all your applications",
+        "check3": "Complete information attracts better brands and opportunities"
+      }
+    },
+    "sections": {
+      "basicInfo": "Basic Information",
+      "socialMedia": "Social Media",
+      "personalInfo": "Personal Information",
+      "portfolio": "Work Portfolio",
+      "experience": "Experience",
+      "pricing": "Rates by Social Network"
+    },
+    "fields": {
+      "name": "Name",
+      "email": "Contact email",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "username": "Username (@)",
+      "contentTypes": "Content types * (Select at least one)",
+      "selectedCategories": "Selected",
+      "avatar": "Profile photo",
+      "age": "Age",
+      "birthDate": "Date of birth",
+      "location": "Location",
+      "education": "Education",
+      "experienceDescription": "Description of your experience",
+      "experienceHint": "Minimum 20 characters"
+    },
+    "placeholders": {
+      "name": "Your full name",
+      "email": "you@email.com",
+      "password": "Minimum 8 characters",
+      "confirmPassword": "Repeat your password",
+      "username": "@your_username",
+      "age": "Your age",
+      "location": "City, Country",
+      "education": "Education level",
+      "experienceDescription": "Describe your experience as a content creator..."
+    },
+    "categories": {
+      "art": "Art"
+    },
+    "avatar": {
+      "remove": "Remove photo",
+      "uploadPrompt": "Upload your profile photo",
+      "selectFile": "Select file"
+    },
+    "social": {
+      "itemLabel": "Social Network #{{number}}",
+      "platformPlaceholder": "Platform (e.g. Instagram)",
+      "usernamePlaceholder": "Username",
+      "followersPlaceholder": "Followers",
+      "addBtn": "Add social network"
+    },
+    "portfolio": {
+      "uploadPrompt": "Upload images of your work",
+      "selectImage": "Select image"
+    },
+    "pricing": {
+      "currencyNote": "All rates are handled in USD (US Dollars)",
+      "itemLabel": "Rate #{{number}}",
+      "selectPlatform": "Select social network",
+      "perPost": "Per post",
+      "perStory": "Per story",
+      "perLive": "Per live",
+      "addBtn": "Add rate"
+    },
+    "submit": {
+      "saving": "Saving...",
+      "create": "Create profile",
+      "update": "Update profile"
+    },
+    "incomplete": {
+      "title": "Complete all required fields",
+      "avatar": "Upload your profile photo",
+      "social": "Add at least one social network",
+      "pricing": "Add at least one rate",
+      "portfolio": "Upload at least one portfolio image"
+    },
+    "success": {
+      "titleCreate": "Profile created successfully!",
+      "titleEdit": "Profile updated successfully!",
+      "subtitleCreate": "Redirecting to your profile...",
+      "subtitleEdit": "Your profile has been updated correctly"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "nameMin": "Name must be at least 3 characters",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "passwordMin": "Minimum 8 characters",
+      "confirmPasswordRequired": "Please confirm your password",
+      "usernameRequired": "Username is required",
+      "usernameAt": "Must start with @",
+      "contentTypesRequired": "Content types are required",
+      "ageRequired": "Age is required",
+      "ageMin": "You must be at least 13 years old",
+      "ageInvalid": "Invalid age",
+      "birthDateRequired": "Date of birth is required",
+      "locationRequired": "Location is required",
+      "educationRequired": "Education is required",
+      "experienceRequired": "Experience description is required",
+      "experienceMin": "Minimum 20 characters"
+    }
+  },
+  "creatorPublicProfile": {
+    "notFound": "Creator not found",
+    "loginRequired": "You must log in as a company to contact creators",
+    "collaborationMessage": "Hi {{creatorName}}! I would love to talk with you about a possible collaboration with {{companyName}}. Are you available to discuss some details?",
+    "backToCreators": "Back to browse creators",
+    "save": "Save",
+    "saved": "Saved",
+    "verifiedProfile": "Verified Profile ✓",
+    "followers": "followers",
+    "noReviews": "This creator has no public reviews yet",
+    "experienceNotSpecified": "Not specified",
+    "pricingCurrencyNote": "All rates are in USD (US Dollars)",
+    "aiRecommended": {
+      "title": "⭐ Recommended by AI based on your profile",
+      "description": "This creator is a perfect match for your sector \"{{sector}}\" and your company's goals. Our AI identified high compatibility for successful collaborations based on:",
+      "check1": "✓ Alignment with your industry and niche",
+      "check2": "✓ Compatible target audience",
+      "check3": "✓ Track record of successful collaborations"
+    },
+    "stats": {
+      "totalReach": "Total Reach",
+      "avgRating": "Average Rating",
+      "collaborations": "Collaborations",
+      "noRating": "N/A"
+    },
+    "sections": {
+      "socialAudience": "Social Media & Audience",
+      "pricing": "Rates by Social Network",
+      "portfolio": "Work Portfolio",
+      "reviews": "Reviews & Testimonials ({{count}})",
+      "personalInfo": "Personal Information",
+      "experience": "Experience"
+    },
+    "pricing": {
+      "perPost": "Per post",
+      "perStory": "Per story",
+      "perLive": "Per live"
+    },
+    "personalInfo": {
+      "age": "Age",
+      "ageValue": "{{age}} years old",
+      "birthDate": "Date of Birth",
+      "location": "Location",
+      "education": "Education"
+    },
+    "followerCategory": {
+      "mega": "Mega Influencer",
+      "macro": "Macro Influencer",
+      "midTier": "Mid-tier Influencer",
+      "micro": "Micro Influencer",
+      "nano": "Nano Influencer"
+    },
+    "cta": {
+      "title": "Interested in collaborating?",
+      "subtitle": "Start a campaign or contact this creator directly",
+      "button": "Start Collaboration"
+    },
+    "savedToShortlist": {
+      "title": "Saved to your shortlist",
+      "description": "You can access this profile from your favorites when creating a campaign"
+    }
+  },
+  "creatorMessages": {
+    "searchPlaceholder": "Search conversations...",
+    "youPrefix": "You: ",
+    "empty": {
+      "title": "No conversations",
+      "subtitle": "Apply to campaigns to connect with companies"
+    },
+    "time": {
+      "yesterday": "Yesterday"
+    },
+    "chat": {
+      "systemSubtitle": "Official verified account · Read only",
+      "creatorType": "Content creator",
+      "companyType": "Company",
+      "emptyTitle": "Start the conversation",
+      "emptySubtitle": "Send a message to start this collaboration",
+      "systemReadOnly": "This is an official MatchCreator conversation · Read only"
+    },
+    "selectConversation": {
+      "title": "Select a conversation",
+      "subtitle": "Choose a conversation from the list to start chatting"
+    }
+  },
+  "campaignDetail": {
+    "notFound": "Campaign not found",
+    "backToCampaigns": "Back to campaigns",
+    "coverAlt": "Campaign Cover",
+    "activeCampaign": "Active Campaign",
+    "organizedBy": "Organized by",
+    "paymentOffered": "Payment Offered",
+    "duration": "Duration",
+    "campaignDescription": "Campaign Description",
+    "campaignBrief": "Campaign Brief",
+    "keyMessage": "Key Message",
+    "targetAudience": "Target Audience",
+    "callToAction": "Call to Action",
+    "collaborationObjective": "Collaboration Objective",
+    "requiredContent": "Required Content",
+    "creatorRequirements": "Creator Requirements",
+    "minEngagement": "Minimum engagement:",
+    "creatorsNeeded": "Creators needed:",
+    "location": "Location:",
+    "minFollowersByPlatform": "Minimum followers by platform:",
+    "detailedTimeline": "Detailed Timeline",
+    "campaignStart": "Campaign start",
+    "campaignEnd": "Campaign end",
+    "deliveryDeadline": "Delivery deadline",
+    "paymentInformation": "Payment Information",
+    "totalBudget": "Total budget",
+    "perCreator": "Per creator",
+    "paymentType": "Payment type",
+    "requiredPlatforms": "Required Platforms",
+    "requiredForCampaign": "Required for the campaign",
+    "whatYouNeedToDo": "What You Need to Do",
+    "requirements": "Requirements",
+    "visualAlt": "Campaign visual",
+    "professionalCollaboration": "Professional Collaboration",
+    "professionalCollaborationDesc": "This campaign seeks to create high-quality content that connects with authentic audiences.",
+    "alreadyApplied": "You already applied",
+    "viewStatusInMyApplications": "You can view the status in \"My Applications\"",
+    "viewMyApplications": "View My Applications",
+    "readyToCollaborate": "Ready to collaborate?",
+    "applyNowDesc": "Apply now and be part of this incredible campaign",
+    "applyNow": "Apply Now",
+    "creatorConnectTip": "CreatorConnect Tip",
+    "creatorConnectTipDesc": "Read all requirements carefully before applying. A well-thought-out proposal increases your chances of being selected.",
+    "fallback": {
+      "createAuthenticContentTitle": "Create authentic content",
+      "createAuthenticContentDesc": "Generate original content that resonates with your audience while meeting the campaign objectives.",
+      "publishOnPlatformsTitle": "Publish on the indicated platforms",
+      "publishOnPlatformsDesc": "Make sure to publish on {{platforms}} as agreed with the company.",
+      "reportMetricsTitle": "Report metrics and results",
+      "reportMetricsDesc": "Share reach, engagement, and impact statistics from your posts at the end.",
+      "maintainCommunicationTitle": "Maintain communication",
+      "maintainCommunicationDesc": "Keep fluid communication with the company throughout the campaign duration."
+    }
+  },
+  "createCampaign": {
+    "title": {
+      "create": "Create new campaign",
+      "edit": "Edit campaign"
+    },
+    "subtitle": {
+      "create": "Complete the information to publish your campaign",
+      "edit": "Update your campaign details"
+    },
+    "sections": {
+      "basicInfo": "Basic information",
+      "payment": "Payment in USD",
+      "categories": "Categories",
+      "platforms": "Social networks",
+      "duration": "Duration",
+      "requirements": "Requirements",
+      "deliverables": "What should the influencer do?",
+      "images": "Campaign images"
+    },
+    "fields": {
+      "campaignName": "Campaign name",
+      "description": "Description",
+      "budget": "Total budget (USD)",
+      "startDate": "Start date",
+      "endDate": "End date"
+    },
+    "placeholders": {
+      "campaignName": "e.g. Summer launch 2025",
+      "description": "Describe what this campaign is about...",
+      "requirement": "e.g. Minimum 10,000 followers on Instagram...",
+      "deliverable": "e.g. Post 1 Reel of 30s mentioning the brand..."
+    },
+    "hints": {
+      "categories": "Select the categories that best describe your campaign (multiple selection)",
+      "platforms": "Select the platforms where the content will be published",
+      "requirements": "List the requirements the influencer must meet to apply",
+      "deliverables": "List the deliverables or actions you expect from the influencer",
+      "editHint": "You can edit each item by clicking on the text. Press Enter to add quickly."
+    },
+    "addBtn": "Add",
+    "submit": {
+      "saving": "Saving...",
+      "publishing": "Publishing...",
+      "saveChanges": "Save changes",
+      "publish": "Publish campaign"
+    },
+    "images": {
+      "mainLabel": "Main image",
+      "mainHint": "Square or vertical image (e.g. 1:1 or 4:5). Appears as campaign cover.",
+      "bannerLabel": "Banner image (horizontal)",
+      "bannerHint": "Landscape image (e.g. 16:9 or 21:9). Used as header or banner.",
+      "changeImage": "Change image",
+      "clickToUpload": "Click to upload"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "descriptionRequired": "Description is required",
+      "budgetRequired": "Budget is required",
+      "budgetInvalid": "Enter a valid numeric value",
+      "categoriesRequired": "Select at least one category",
+      "platformsRequired": "Select at least one social network",
+      "startDateRequired": "Start date is required",
+      "endDateRequired": "End date is required",
+      "dateRange": "End date must be after start date",
+      "requirementsRequired": "Add at least one requirement",
+      "deliverablesRequired": "Add at least one action or deliverable"
+    },
+    "success": {
+      "titleCreate": "Campaign published!",
+      "titleEdit": "Campaign updated!",
+      "subtitleCreate": "Your campaign is now visible to influencers.",
+      "subtitleEdit": "Changes have been saved correctly.",
+      "check1Create": "Campaign created successfully",
+      "check1Edit": "Information updated",
+      "check2Create": "Visible in campaign listing",
+      "check2Edit": "Changes reflected in the system",
+      "check3Create": "Influencers can apply now",
+      "check3Edit": "Ready to receive more applications"
+    },
+    "categories": {
+      "gaming": "Gaming",
+      "fashion": "Fashion",
+      "fitness": "Fitness",
+      "education": "Education",
+      "technology": "Technology",
+      "beauty": "Beauty",
+      "food": "Food",
+      "travel": "Travel",
+      "lifestyle": "Lifestyle",
+      "entertainment": "Entertainment",
+      "sports": "Sports",
+      "music": "Music",
+      "artDesign": "Art & Design",
+      "finance": "Finance",
+      "healthWellness": "Health & Wellness",
+      "pets": "Pets",
+      "humor": "Humor",
+      "business": "Business",
+      "politics": "Politics",
+      "science": "Science",
+      "nature": "Nature",
+      "photography": "Photography",
+      "architecture": "Architecture",
+      "drinks": "Drinks",
+      "maternity": "Maternity",
+      "cars": "Cars",
+      "books": "Books",
+      "sustainability": "Sustainability",
+      "spirituality": "Spirituality",
+      "diyHandcrafts": "DIY & Handcrafts"
+    }
+  },
+  "companyReviews": {
+    "title": "Reviews",
+    "subtitle": "Manage your reviews and collaboration feedback",
+    "notAvailable": "N/A",
+    "reviewSingular": "review",
+    "reviewPlural": "reviews",
+    "comments": "Comments",
+    "tabs": {
+      "received": "Received Reviews",
+      "write": "Write Reviews"
+    },
+    "emptyReceived": {
+      "title": "You don't have reviews yet",
+      "subtitle": "Complete your first collaboration to receive feedback from creators"
+    },
+    "emptyWrite": {
+      "title": "There are no completed collaborations",
+      "subtitle": "Once you accept and complete collaborations with creators, you will be able to leave reviews here"
+    },
+    "shareExperience": {
+      "title": "Share your experience",
+      "subtitle": "Help other businesses by leaving honest reviews"
+    },
+    "creatorCard": {
+      "completedCollaboration": "Completed collaboration"
+    },
+    "form": {
+      "rating": "Rating",
+      "comment": "Comment",
+      "commentPlaceholder": "Share your experience working with this creator...",
+      "submitting": "Sending...",
+      "submit": "Send Review",
+      "cancel": "Cancel"
+    },
+    "alreadyReviewed": "You have already reviewed this creator",
+    "writeReviewButton": "Write Review",
+    "toast": {
+      "reviewSubmitted": "Review submitted successfully"
+    }
+  },
+  "companyRegister": {
+    "header": {
+      "backToProfile": "Back to profile",
+      "alreadyHaveAccount": "I already have an account"
+    },
+    "title": {
+      "create": "Create your business account",
+      "edit": "Edit business profile"
+    },
+    "subtitle": {
+      "create": "Complete your profile to connect with the right creators",
+      "edit": "Update your company information"
+    },
+    "infoBlock": {
+      "create": {
+        "title": "What happens after registration?",
+        "check1": "Your profile will be visible to verified creators on the platform",
+        "check2": "You can search and contact creators based on your needs",
+        "check3": "Our AI will recommend ideal collaborators for your brand",
+        "check4": "You can create and manage campaigns from your dashboard"
+      },
+      "edit": {
+        "title": "Why keep your profile updated?",
+        "check1": "An updated profile improves creator recommendations",
+        "check2": "Changes are immediately reflected in all campaigns",
+        "check3": "Clear information attracts better collaborators"
+      }
+    },
+    "form": {
+      "titleCreate": "Company Information",
+      "titleEdit": "Edit Information"
+    },
+    "fields": {
+      "name": "Company name",
+      "logo": "Company logo",
+      "logoOptional": "optional",
+      "email": "Corporate email",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "sector": "Industry",
+      "budget": "Estimated monthly budget",
+      "description": "Company description"
+    },
+    "placeholders": {
+      "name": "e.g. My Company Inc.",
+      "email": "contact@mycompany.com",
+      "password": "Minimum 6 characters",
+      "confirmPassword": "Repeat your password",
+      "sector": "Select an industry",
+      "budget": "Select a range",
+      "description": "Describe your company, what you do, your values and goals (e.g. We are a technology company focused on...)"
+    },
+    "sectors": {
+      "technology": "Technology",
+      "fashion": "Fashion",
+      "foodBeverage": "Food & Beverages",
+      "healthWellness": "Health & Wellness",
+      "education": "Education",
+      "entertainment": "Entertainment",
+      "beauty": "Beauty",
+      "sports": "Sports",
+      "travel": "Travel",
+      "finance": "Finance",
+      "other": "Other"
+    },
+    "hints": {
+      "name": "The official name of your company or organization",
+      "email": "We will use this email to contact you",
+      "sector": "Main sector of your company",
+      "budget": "This helps us recommend suitable creators",
+      "budgetTooltip": "Approximate budget for influencer marketing campaigns",
+      "description": "A good description helps creators get to know your company better"
+    },
+    "fieldValid": {
+      "name": "✓ Valid name",
+      "email": "✓ Valid email",
+      "password": "✓ Secure password",
+      "confirmPassword": "✓ Passwords match",
+      "description": "✓ Clear description"
+    },
+    "logo": {
+      "remove": "Remove logo",
+      "uploadPrompt": "Drag your logo here or click to select",
+      "selectFile": "Select file",
+      "formatHint": "Formats: JPG, PNG. Max size: 5MB"
+    },
+    "submit": {
+      "saving": "Saving changes...",
+      "creating": "Creating account...",
+      "saveChanges": "Save changes",
+      "create": "Create account",
+      "undoChanges": "Undo changes",
+      "clearForm": "Clear form"
+    },
+    "success": {
+      "titleCreate": "Account created successfully!",
+      "titleEdit": "Profile updated successfully!",
+      "subtitleCreate": "Your profile is ready to connect with creators",
+      "subtitleEdit": "Changes have been saved correctly",
+      "check1Create": "Business profile configured",
+      "check1Edit": "Information updated",
+      "check2Create": "Email verified",
+      "check2Edit": "Changes saved correctly",
+      "check3Create": "Ready to create campaigns",
+      "check3Edit": "Profile ready for new campaigns",
+      "redirecting": "Redirecting to dashboard..."
+    },
+    "preview": {
+      "title": "Profile preview",
+      "subtitle": "This is how creators will see your profile",
+      "namePlaceholder": "Company name",
+      "sectorPlaceholder": "Industry",
+      "budgetLabel": "Budget",
+      "budgetEmpty": "Not specified",
+      "objectiveLabel": "Objective"
+    },
+    "help": {
+      "title": "Need help?",
+      "subtitle": "We are here to help you set up your profile correctly",
+      "guideLink": "View usage guide"
+    },
+    "tips": {
+      "title": "💡 Tips",
+      "tip1": "Use a high-quality logo for a better impression",
+      "tip2": "Be specific about your campaign objective",
+      "tip3": "Complete all fields for better recommendations"
+    },
+    "modal": {
+      "titleCreate": "Confirm account creation?",
+      "titleEdit": "Save changes?",
+      "subtitleCreate": "You are about to create your business account with the provided information.",
+      "subtitleEdit": "Changes will be immediately applied to your business profile."
+    },
+    "validation": {
+      "nameRequired": "Company name is required",
+      "nameMin": "Name must be at least 3 characters",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "passwordMin": "Minimum 6 characters",
+      "confirmPasswordRequired": "Please confirm your password",
+      "sectorRequired": "Select a sector",
+      "budgetRequired": "Select a budget",
+      "descriptionRequired": "Describe your company",
+      "descriptionMin": "Please describe in more detail (minimum 20 characters)"
+    }
+  },
+  "companyProfile": {
+    "notFound": "Company not found",
+    "notAvailable": "N/A",
+    "coverAlt": "Cover",
+    "editProfile": "Edit Profile",
+    "aboutCompany": "About the company",
+    "collaborationObjectives": "Collaboration objectives",
+    "noObjectives": "This company does not have defined objectives yet",
+    "availableCampaigns": "Available campaigns",
+    "creatorReviews": "Creator reviews",
+    "budget": "Budget",
+    "monthlyInvestment": "Monthly investment in collaborations",
+    "industry": "Industry",
+    "contact": "Contact",
+    "statistics": "Statistics",
+    "averageRating": "Average rating",
+    "collaborations": "Collaborations",
+    "activeCampaigns": "Active campaigns",
+    "status": "Status",
+    "verified": "Verified",
+    "stats": {
+      "rating": "Rating",
+      "activeCampaigns": "Active campaigns",
+      "collaborations": "Collaborations"
+    }
+  },
+  "companyMessages": {
+    "searchPlaceholder": "Search conversations...",
+    "youPrefix": "You: ",
+    "empty": {
+      "title": "No conversations",
+      "subtitle": "Explore creators and start collaborating"
+    },
+    "time": {
+      "yesterday": "Yesterday"
+    },
+    "chat": {
+      "systemSubtitle": "Official verified account · Read only",
+      "creatorType": "Content creator",
+      "companyType": "Company",
+      "emptyTitle": "Start the conversation",
+      "emptySubtitle": "Send a message to start this collaboration",
+      "systemReadOnly": "This is an official MatchCreator conversation · Read only"
+    },
+    "selectConversation": {
+      "title": "Select a conversation",
+      "subtitle": "Choose a conversation from the list to start chatting"
+    }
+  },
+  "companyPublicProfile": {
+    "notFound": "Company not found",
+    "verifiedCompany": "Verified Company ✓",
+    "stats": {
+      "rating": "Rating",
+      "activeCampaigns": "Active Campaigns",
+      "collaborations": "Collaborations"
+    },
+    "sections": {
+      "about": "About the Company",
+      "objectives": "Collaboration Objectives",
+      "activeCampaigns": "Active Campaigns ({{count}})",
+      "reviews": "Creator Reviews ({{count}})"
+    },
+    "objectives": {
+      "empty": "This company has no defined objectives yet"
+    },
+    "sidebar": {
+      "budget": "Budget",
+      "budgetHint": "Monthly investment in collaborations",
+      "industry": "Industry",
+      "contact": "Contact",
+      "statsTitle": "Statistics",
+      "avgRating": "Average rating",
+      "collaborations": "Collaborations",
+      "activeCampaigns": "Active campaigns"
+    },
+    "cta": {
+      "title": "{{count}} Active Campaign",
+      "title_other": "{{count}} Active Campaigns",
+      "subtitle": "Explore the available collaboration opportunities",
+      "button": "View All Campaigns"
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "Sorry, the page you are looking for does not exist.",
+    "backHome": "Back to home"
+  },
+  "companyCampaignDetail": {
+    "notFound": "Campaign not found",
+    "backToCampaigns": "Back to my campaigns",
+    "closeCampaign": "Close campaign",
+    "confirmClose": "Are you sure you want to close this campaign?",
+    "confirmReject": "Are you sure you want to reject this application?",
+    "statusActive": "Active Campaign",
+    "statusClosed": "Closed Campaign",
+    "yourCompany": "Your company",
+    "stats": {
+      "budget": "Budget USD",
+      "applications": "Applications",
+      "duration": "Duration"
+    },
+    "tabs": {
+      "overview": "Overview",
+      "applicants": "Applications"
+    },
+    "overview": {
+      "description": "Campaign description",
+      "platforms": "Target platforms",
+      "publishChannel": "Publication channel",
+      "deliverables": "What should the influencer do?",
+      "selectionSummary": "Selection summary",
+      "totalApplications": "Total applications",
+      "accepted": "Accepted",
+      "pending": "Pending",
+      "requirements": "Requirements",
+      "timeline": "Timeline",
+      "startDate": "Start",
+      "endDate": "End"
+    },
+    "editHint": {
+      "title": "Need to adjust something?",
+      "subtitle": "Edit your campaign details at any time.",
+      "button": "Edit campaign"
+    },
+    "applicants": {
+      "empty": {
+        "title": "No applications yet",
+        "subtitle": "Influencers will be able to apply when they discover your campaign."
+      },
+      "card": {
+        "followers": "Followers",
+        "networks": "Networks",
+        "rating": "Rating",
+        "newCreator": "New",
+        "appliedOn": "Applied on",
+        "viewProfile": "View profile"
+      }
+    },
+    "messages": {
+      "acceptedCompany": "Hi {{creatorName}}! We reviewed your profile and accepted you for the campaign \"{{campaignName}}\". Contact us to continue with the collaboration details. 🎉",
+      "acceptedSystem": "✅ Congratulations! You were accepted into the campaign \"{{campaignName}}\" by {{companyName}}. The company will contact you soon to coordinate the details.",
+      "rejectedSystem": "We regret to inform you that your application to the campaign \"{{campaignName}}\" by {{companyName}} was not selected this time. We invite you to keep exploring other opportunities on the platform. Good luck! 💪"
+    },
+    "notifications": {
+      "acceptedTitle": "You were accepted!",
+      "acceptedMessage": "You have been accepted into the campaign \"{{campaignName}}\"",
+      "rejectedTitle": "Application update",
+      "rejectedMessage": "Your application to \"{{campaignName}}\" was not selected"
+    }
+  },
+  "companySidebar": {
+    "profile": {
+      "defaultName": "My Company",
+      "role": "Company"
+    },
+    "menu": {
+      "profile": {
+        "label": "Profile",
+        "description": "View my data"
+      },
+      "browseCreators": {
+        "label": "Browse Creators",
+        "description": "Explore talent"
+      },
+      "messages": {
+        "label": "Messages",
+        "description": "Chat with creators"
+      },
+      "createCampaign": {
+        "label": "Create Campaign",
+        "description": "New campaign"
+      },
+      "myCampaigns": {
+        "label": "My Campaigns",
+        "description": "Manage"
+      },
+      "reviews": {
+        "label": "Reviews",
+        "description": "Feedback"
+      }
+    },
+    "logout": "Log out"
+  },
+  "browseCreatorsPage": {
+    "header": {
+      "title": "Discover Creative Talent",
+      "subtitle": "Thousands of creators ready to collaborate with your brand",
+      "results": "Results"
+    },
+    "searchPlaceholder": "Search creators by name, niche, specialty...",
+    "filtersLabel": "FILTERS:",
+    "filters": {
+      "socialNetwork": "Social Network",
+      "category": "Category",
+      "reach": "Reach"
+    },
+    "clearFilters": "Clear ({{count}})",
+    "availableTitle": "Available Creators",
+    "aiRecommendation": {
+      "button": "🤖 AI Recommend",
+      "buttonActive": "Recommending...",
+      "analyzing": "Analyzing your profile...",
+      "matching": "Finding the best matches...",
+      "complete": "Recommendations ready!",
+      "description": "Our AI has analyzed your profile and found the best options for your sector \"{{sector}}\"",
+      "noRecommendations": "We didn't find specific recommendations at this time. Try adjusting your filters."
+    },
+    "aiCard": {
+      "topAI": "TOP AI"
+    },
+    "card": {
+      "aiRecommended": "AI Recommended",
+      "saveCreator": "Save creator",
+      "followers": "Followers",
+      "networks": "Networks"
+    },
+    "empty": {
+      "title": "We couldn't find creators",
+      "subtitle": "Adjust your filters or search to discover more talent",
+      "clearBtn": "Clear Filters"
+    },
+    "categories": {
+      "tech": "Tech",
+      "gaming": "Gaming",
+      "fashion": "Fashion",
+      "lifestyle": "Lifestyle",
+      "fitness": "Fitness",
+      "beauty": "Beauty",
+      "travel": "Travel",
+      "food": "Food",
+      "design": "Design",
+      "wellness": "Wellness",
+      "yoga": "Yoga"
+    }
+  }
+}
